@@ -3,7 +3,7 @@ global:
   short_name: OpenJSF
   repo: dankohn/openjsf-landscape
   website: 'https://openjsf-landscape.netlify.com'
-  short_domain: openjsf-landscape.netlify.com
+  short_domain: l.openjsf.org
   company_url: 'https://openjsf.org'
   membership: OpenJS Foundation Member Company
   email: info@openjsf.org
@@ -155,7 +155,7 @@ big_picture:
             width: 90
             height: 90
           - type: title
-            title: openjsf-landscape.netlify.com
+            title: l.openjsf.org
             top: 150
             left: 19
             font_size: 12
