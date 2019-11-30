@@ -7,53 +7,66 @@ landscape:
         name: Metering & Compensation
         items:
           - item:
-            name: Energy Market Methods Consortium (EM2)
-            description: Reducing the costs of scaling demand-side energy through collaboration
-            homepage_url: 'https://www.energymarketmethods.org'
+            name: Appium
+            homepage_url: 'https://appium.io/'
             project: growth
-            repo_url: 'https://github.com/energy-market-methods/caltrack'
-            logo: em2.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
+            repo_url: 'https://github.com/appium/appium'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/appium/appium-logo-stacked-color-flat.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
-              name: LF Energy
-              description: 'Open Source will speed technological innovation and enable the energy transition, globally.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.lfenergy.org/'
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/LFE_Foundation'
-              linkedin: 'https://www.linkedin.com/company/lf-energy'
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               languages:
-                - name: Dockerfile
-                  value: 286
-                  color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;2;0;9;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+                - name: JavaScript
+                  value: 181341
+                  color: '#f1e05a'
+                - name: Java
+                  value: 23550
+                  color: '#b07219'
+                - name: 'C#'
+                  value: 18579
+                  color: '#178600'
+                - name: Python
+                  value: 16112
+                  color: '#3572A5'
+                - name: Ruby
+                  value: 10637
+                  color: '#701516'
+                - name: PHP
+                  value: 10011
+                  color: '#4F5D95'
+              contributions: 9;18;15;1;8;8;8;14;8;3;6;6;5;9;17;20;17;10;15;4;6;6;11;4;12;4;7;6;17;14;6;7;6;4;0;3;7;9;10;5;13;4;7;3;5;3;7;5;5;8;3;4
               firstWeek: 2018-12-02Z
-              stars: 23
-              license: Creative Commons Zero v1.0 Universal
-              description: Shared repository for documentation and testing of CalTRACK methods
-              latest_commit_date: '2019-06-28T00:57:10Z'
-              latest_commit_link: /energy-market-methods/caltrack/commit/29e2b155438bf0d560938d07bb542b8c7acdd7c4
-              release_date: '2019-11-14T21:34:37Z'
-              release_link: 'https://github.com/energy-market-methods/caltrack/releases'
-              contributors_count: 15
-              contributors_link: 'https://github.com/energy-market-methods/caltrack/graphs/contributors'
+              stars: 10548
+              license: Apache License 2.0
+              description: ':iphone: Automation for iOS, Android, and Windows Apps.'
+              latest_commit_date: '2019-11-28T23:55:48Z'
+              latest_commit_link: /appium/appium/commit/673a75c6b497b897bac350b2a13349c256fbf4b0
+              release_date: '2019-10-13T21:15:31Z'
+              release_link: 'https://github.com/appium/appium/releases'
+              contributors_count: 250
+              contributors_link: 'https://github.com/appium/appium/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /energy-market-methods/caltrack/commit/1688277b69d4e3b5c9d4eb8cf780c4e68031ad8e
-              start_date: '2016-08-25T14:53:20Z'
+              start_commit_link: /appium/appium/commit/5e5874e66dcb6400af226f5002241774a4b80429
+              start_date: '2013-01-09T22:49:50Z'
             image_data:
-              fileName: energy-market-methods-consortium-em2.svg
-              hash: FGdXgrtVLy3aUXud4WovPZ5qDukhp5ttMuh241pdkRw=
+              fileName: appium.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-22T13:15:16.000Z
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
           - item:
             name: Open EEmeter
             description: Consistent treatment of energy meter data for demand flexibility
@@ -342,7 +355,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-11-22T13:15:16.000Z
   - category:
-    name: OpenJS Foundation Member Company
+    name: OpenJS Foundation Members
     subcategories:
       - subcategory:
         name: Platinum
@@ -462,209 +475,170 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-11-22T19:00:49.000Z
       - subcategory:
-        name: General
+        name: Gold
         items:
           - item:
-            name: OSIsoft
-            homepage_url: 'https://www.osisoft.com'
-            logo: 'https://my.osisoft.com/Microsite/images/osisoft-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/osisoft'
+            name: Intel (member)
+            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
+            logo: 'https://landscape.cncf.io/logos/intel-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
             crunchbase_data:
-              name: OSIsoft
-              description: OSIsoft is a manufacturer of application software for real-time data infrastructure solutions.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: 'http://www.osisoft.com'
-              city: San Leandro
+              name: Intel
+              description: 'Intel designs, manufactures, and sells integrated digital technology platforms worldwide.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.intel.com/'
+              city: Santa Clara
               region: California
               country: United States
-              twitter: 'http://twitter.com/OSIsoft'
-              linkedin: 'https://www.linkedin.com/company/osisoft'
+              twitter: 'http://twitter.com/intel'
+              linkedin: 'https://www.linkedin.com/company/intel-corporation'
               parents: []
-              kind: funding
-              funding: 139500000
+              ticker: INTC
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 252517498880
+              effective_ticker: INTC
             image_data:
-              fileName: os-isoft.svg
+              fileName: intel-member.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-22T23:00:54.000Z
+              latest_tweet_date: 2019-11-30T10:32:35.000Z
           - item:
-            name: R9b
-            homepage_url: 'https://www.root9b.com'
-            logo: r9b.svg
-            crunchbase: 'https://www.crunchbase.com/organization/root9b'
+            name: GoDaddy (member)
+            homepage_url: 'https://www.godaddy.com/'
+            logo: 'https://landscape.cncf.io/logos/go-daddy-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/godaddy'
             crunchbase_data:
-              name: root9B
-              description: 'Root9B Holdings, a provider of cybersecurity services'
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'https://www.root9b.com/'
-              city: Colorado Springs
-              region: Colorado
+              name: GoDaddy
+              description: GoDaddy is an internet domain registrar and web hosting company facilitating online businesses.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://godaddy.com'
+              city: Scottsdale
+              region: Arizona
               country: United States
-              twitter: 'https://www.twitter.com/root9b'
-              linkedin: 'https://www.linkedin.com/company/3044818'
+              twitter: 'http://twitter.com/GoDaddy'
+              linkedin: 'https://www.linkedin.com/company/godaddy'
               parents: []
-              kind: funding
-              funding: 2250000
+              ticker: GDDY
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 11435414528
+              effective_ticker: GDDY
             image_data:
-              fileName: r9b.svg
-              hash: qin6cKZ7qoBhqCF/vqjMJnaT4xjuii9WklgSpEQq4Z4=
+              fileName: go-daddy-member.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-22T14:08:40.000Z
-          - item:
-            name: Recurve
-            homepage_url: 'https://www.recurve.com'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/logo-recurve.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/recurve'
-            crunchbase_data:
-              name: Recurve
-              description: Recurve develops software for contractors who audit homes to increase energy efficiency and perform construction services.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'http://www.recurve.com'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/recurveus'
-              linkedin: 'https://www.linkedin.com/company/recurve-inc.'
-              parents: []
-              kind: funding
-              funding: 14000000
-            image_data:
-              fileName: recurve.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2011-11-03T17:40:30.000Z
-          - item:
-            name: Unicorn Systems
-            homepage_url: 'https://unicorn.com'
-            logo: 'http://www.akubat-asociace.cz/wp-content/uploads/2017/08/logo-unicorn.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/unicorn-systems'
-            crunchbase_data:
-              name: Unicorn Systems
-              description: Unicorn Systems is a renowned European company providing the largest information systems.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: 'http://unicorn.eu/'
-              city: Prague
-              region: Hlavni mesto Praha
-              country: Czech Republic
-              twitter: 'https://twitter.com/Unicorn_Systems'
-              linkedin: 'https://www.linkedin.com/company/unicorn'
-              parents: []
-            image_data:
-              fileName: unicorn-systems.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-21T08:04:04.000Z
+              latest_tweet_date: 2019-11-27T19:22:42.000Z
       - subcategory:
-        name: Associate
+        name: Silver
         items:
           - item:
-            name: Elering
-            homepage_url: 'https://elering.ee'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/elering-color.svg'
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/elering'
+            name: The Blog Starter
+            homepage_url: 'https://www.theblogstarter.com/'
+            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/the-blog-starter'
             crunchbase_data:
-              name: Elering
-              description: Elering is an independent and independent electricity and gas system operator.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'http://vana.elering.ee/'
-              city: Tallinn
-              region: Harjumaa
-              country: Estonia
-              twitter: null
-              linkedin: null
-              parents: []
-            image_data:
-              fileName: elering.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Energinet
-            homepage_url: 'https://energinet.dk'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/energinet-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/energinet-dk'
-            crunchbase_data:
-              name: Energinet
-              description: Energinet.dk is the Danish national transmission system operator for electricity and natural gas.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: 'http://www.energinet.dk'
-              city: Fredericia
-              region: Syddanmark
-              country: Denmark
-              twitter: 'https://www.twitter.com/energinetdk'
-              linkedin: null
-              parents: []
-            image_data:
-              fileName: energinet.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-18T15:22:45.000Z
-          - item:
-            name: Energy Foundation
-            homepage_url: 'https://www.ef.org'
-            logo: 'https://www.ef.org/wp-content/themes/energy-foundation/dist/images/ef-dark-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/the-energy-foundation'
-            crunchbase_data:
-              name: The Energy Foundation
-              description: The Energy Foundation is a company that promotes clean technology.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'http://www.ef.org'
-              city: San Francisco
-              region: California
+              name: The Blog Starter
+              description: 'a free, easy, step-by-step guide on how to start a blog'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.theblogstarter.com/'
+              city: Chicago
+              region: Illinois
               country: United States
-              twitter: 'https://www.twitter.com/energyfdn'
+              twitter: 'https://twitter.com/BlogChow'
               linkedin: null
               parents: []
             image_data:
-              fileName: energy-foundation.svg
+              fileName: the-blog-starter.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-24T04:35:35.000Z
+              latest_tweet_date: 2019-11-03T01:14:44.000Z
           - item:
-            name: ENTSO-E
-            homepage_url: 'https://www.entsoe.eu'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/entso-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/entso-e'
+            name: BrowserStack
+            homepage_url: 'https://www.browserstack.com/'
+            logo: 'https://marker.io/vendor/img/logo/browserstack-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/browserstack'
             crunchbase_data:
-              name: ENTSO-E
-              description: ENTSO-E publishes its initial proposals on the Energy Union.
+              name: BrowserStack
+              description: BrowserStack is the most reliable web and mobile app testing platform on the market.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'http://www.browserstack.com/'
+              city: Mumbai
+              region: Maharashtra
+              country: India
+              twitter: 'http://twitter.com/browserstack'
+              linkedin: 'https://www.linkedin.com/company/2553488/'
+              parents: []
+              kind: funding
+              funding: 50000000
+            image_data:
+              fileName: browser-stack.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-27T16:23:09.000Z
+          - item:
+            name: Cloud Grey
+            homepage_url: 'https://cloudgrey.io/'
+            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-grey'
+            crunchbase_data:
+              name: Cloud Grey
+              description: Achieve mobile testing greatness with Cloud Grey
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://cloudgrey.io/'
+              city: Vancouver
+              region: British Columbia
+              country: Canada
+              twitter: 'https://twitter.com/cloudgrey_io'
+              linkedin: null
+              parents: []
+            image_data:
+              fileName: cloud-grey.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-10T21:15:00.000Z
+          - item:
+            name: COIL
+            homepage_url: 'https://coil.com/'
+            logo: coil.svg
+            crunchbase: 'https://www.crunchbase.com/organization/coil-technologies'
+            crunchbase_data:
+              name: Coil
+              description: 'Web, Content, Monetization'
               num_employees_min: 11
               num_employees_max: 50
-              homepage: 'http://entsoe.eu'
-              city: Brussels
-              region: Brussels Hoofdstedelijk Gewest
-              country: Belgium
-              twitter: 'https://twitter.com/entso_e'
-              linkedin: 'https://www.linkedin.com/company/entso-e'
+              homepage: 'https://coil.com/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/coil'
+              linkedin: 'https://linkedin.com/company/coilhq'
               parents: []
+              kind: funding
+              funding: 269000000
             image_data:
-              fileName: entso-e.svg
+              fileName: coil.svg
+              hash: 6tcAMiYlZ4yk5GPI/sduucKWIv6zy+8it1Ru14ArWCk=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-23T06:39:10.000Z
+              latest_tweet_date: 2019-11-22T15:33:03.000Z
           - item:
             name: EPFL
             homepage_url: 'https://www.epfl.ch/en/'

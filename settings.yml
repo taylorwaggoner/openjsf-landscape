@@ -5,7 +5,7 @@ global:
   website: 'https://openjsf-landscape.netlify.com'
   short_domain: l.openjsf.org
   company_url: 'https://openjsf.org'
-  membership: OpenJS Foundation Member Company
+  membership: OpenJS Foundation Members
   email: info@openjsf.org
   self: 'https://www.crunchbase.com/organization/open-js-foundation'
   slack_channel: T08PSQ7BQ/BQKAV2KDG/ixNxV2AI4q4mG7aYKgwD53C8
@@ -17,7 +17,7 @@ global:
     google_site_verification: M_GmEYdzsEnvJiIcvfj7gmczKsme1N5rd9RwRD35Y98
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   flags:
-    companies: OpenJS Foundation Member Company
+    companies: OpenJS Foundation Members
 twitter:
   search: openjsf-landscape.netlify.com'
   url: 'https://openjsf-landscape.netlify.com'
@@ -67,17 +67,18 @@ relation:
 membership:
   Platinum:
     name: OpenJS Foundation
-    label: Premier Member
-    funding: Premier
+    label: Platinum
+    funding: Platinum
     is_large: true
-  General:
+  Gold:
     name: OpenJS Foundation
-    label: Member
-    funding: General
-  Associate:
+    label: Gold
+    funding: Gold
+    is_large: true
+  Silver:
     name: OpenJS Foundation
-    label: Associate
-    funding: Associate
+    label: Silver
+    funding: Silver
   'false':
     funding: 'No'
 home:
@@ -108,7 +109,7 @@ big_picture:
     url: landscape
     name: Landscape
     title: OpenJS Foundation Landscape
-    fullscreen_header: See the interactive landscape at openjsf-landscape.netlify.com
+    fullscreen_header: Interactive landscape is at openjsf-landscape.netlify.com
     size:
       width: 950
       height: 470
@@ -126,7 +127,7 @@ big_picture:
         color: 'rgb(104, 145, 145)'
         fit_width: true
       - type: HorizontalCategory
-        category: OpenJS Foundation Member Company
+        category: OpenJS Foundation Members
         rows: 3
         width: 900
         height: 170
