@@ -158,8 +158,8 @@ big_picture:
         children:
           - type: text
             text: >-
-              This OpenJS Foundation Landscape is a living document that developers, investors, vendors, researchers and others can use as a resource to better
-              understand the OpenJSF ecosystem.
+              This OpenJS Foundation Landscape is a living document that developers, vendors, end users and others can use as a resource to better understand
+              the OpenJSF ecosystem of projects and members.
             top: 55
             left: 120
             right: 20
