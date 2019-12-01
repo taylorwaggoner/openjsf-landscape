@@ -1311,7 +1311,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-11-29T17:54:28.000Z
           - item:
-            name: Moment
+            name: Moment.js
             homepage_url: 'https://momentjs.com/'
             project: at-large
             repo_url: 'https://github.com/moment/moment'
@@ -1354,7 +1354,7 @@ landscape:
               start_commit_link: /moment/moment/commit/52e2408c33bcedf9907f987b7b95aa7efbfeb7bc
               start_date: '2011-03-01T02:53:16Z'
             image_data:
-              fileName: moment.svg
+              fileName: moment-js.svg
             best_practice_data:
               badge: false
               percentage: null

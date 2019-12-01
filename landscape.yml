@@ -184,7 +184,7 @@ landscape:
             logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/messageformat/messageformat-logo-stacked-color.svg'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
-            name: Moment
+            name: Moment.js
             homepage_url: 'https://momentjs.com/'
             project: at-large
             repo_url: 'https://github.com/moment/moment'
