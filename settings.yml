@@ -36,7 +36,7 @@ relation:
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: OpenJSF Impact
-          big_picture_color: 'rgb(24,54,114)'
+          big_picture_color: 'rgb(0,128,255)'
         - id: growth
           label: Growth
           prefix: OpenJS Foundation
@@ -52,16 +52,23 @@ relation:
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: OpenJSF At-Large
-          big_picture_color: 'rgb(24,54,114)'
-        - id: sandbox
-          label: Sandbox
+          big_picture_color: 'rgb(0,0,102)'
+        - id: incubating
+          label: Incubating
           prefix: OpenJS Foundation
-          tag: Sandbox
+          tag: Incubating
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: OpenJSF Sandbox
-          big_picture_color: 'rgb(24,54,114)'
-          additional_relation: member
+          big_picture_label: OpenJSF Incubating
+          big_picture_color: 'rgb(0,153,0)'
+        - id: emeritus
+          label: Emeritus
+          prefix: OpenJS Foundation
+          tag: Emeritus
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: OpenJSF Emeritus
+          big_picture_color: 'rgb(160,160,160)'
     - id: company
       label: OpenJS Foundation Members
       tag: Company
@@ -101,8 +108,8 @@ ads:
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
-  - url: /category=openjs-foundation-member-company&format=card-mode&grouping=category
-    label: Member cards
+  - url: /format=card-mode&grouping=no&license=open-source&sort=commits
+    label: Commits this year
   - url: /format=card-mode&grouping=category
     label: Cards in categories
   - url: /format=card-mode&grouping=no&sort=stars
@@ -119,16 +126,16 @@ big_picture:
     title: OpenJS Foundation Landscape
     fullscreen_header: Interactive version at openjsf-landscape.netlify.com
     size:
-      width: 950
-      height: 534
+      width: 1333
+      height: 750
     fullscreen_size:
-      width: 950
-      height: 534
+      width: 1333
+      height: 750
     elements:
       - type: HorizontalCategory
         category: Projects
         rows: 10
-        width: 900
+        width: 1200
         height: 400
         top: 10
         left: 0
@@ -137,7 +144,7 @@ big_picture:
       - type: HorizontalCategory
         category: OpenJS Foundation Members
         rows: 4
-        width: 600
+        width: 800
         height: 200
         top: 430
         left: 0
@@ -147,7 +154,7 @@ big_picture:
         width: 280
         height: 200
         top: 430
-        left: 620
+        left: 920
         children:
           - type: text
             text: >-

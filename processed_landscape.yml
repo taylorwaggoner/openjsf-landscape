@@ -1462,68 +1462,395 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-11-29T17:54:28.000Z
       - subcategory:
-        name: Power System Calculation
+        name: Incubating
         items:
           - item:
-            name: Power System Blocks
-            description: A High-Performance Computing Framework For Grid Simulation and Planning
-            homepage_url: 'https://www.powsybl.org'
-            project: sandbox
-            repo_url: 'https://github.com/powsybl/powsybl-core'
-            logo: powsybl.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
+            name: Amp
+            homepage_url: 'https://amp.dev/'
+            project: incubating
+            repo_url: 'https://github.com/ampproject/amphtml'
+            logo: 'https://symbols.getvecta.com/stencil_73/103_amp-official.d2c07cab72.svg'
+            twitter: 'https://twitter.com/AMPhtml'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
-              name: LF Energy
-              description: 'Open Source will speed technological innovation and enable the energy transition, globally.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.lfenergy.org/'
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/LFE_Foundation'
-              linkedin: 'https://www.linkedin.com/company/lf-energy'
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               languages:
-                - name: Java
-                  value: 6951673
-                  color: '#b07219'
-                - name: Groovy
-                  value: 76647
-                  color: '#e69f56'
-                - name: Shell
-                  value: 6535
-                  color: '#89e051'
-                - name: Batchfile
-                  value: 1696
-                  color: '#C1F12E'
                 - name: JavaScript
-                  value: 324
+                  value: 16916823
                   color: '#f1e05a'
-              contributions: 7;13;6;6;0;3;5;3;7;11;5;13;9;12;5;12;7;5;10;6;7;5;4;7;11;6;14;11;6;7;5;7;8;6;6;0;4;4;3;16;23;15;8;2;10;5;4;6;3;8;17;4
-              firstWeek: 2018-12-02Z
-              stars: 49
-              license: Mozilla Public License 2.0
-              description: A framework to build power system oriented software
-              latest_commit_date: '2019-11-22T16:57:21Z'
-              latest_commit_link: /powsybl/powsybl-core/commit/443df656dae738472a705b0a1cda5c8d13f4d902
-              release_date: '2019-10-23T07:47:16Z'
-              release_link: 'https://github.com/powsybl/powsybl-core/releases'
-              contributors_count: 36
-              contributors_link: 'https://github.com/powsybl/powsybl-core/graphs/contributors'
+                - name: HTML
+                  value: 1682818
+                  color: '#e34c26'
+                - name: CSS
+                  value: 456239
+                  color: '#563d7c'
+                - name: Python
+                  value: 74472
+                  color: '#3572A5'
+                - name: Yacc
+                  value: 23470
+                  color: '#4B6C4B'
+                - name: Shell
+                  value: 17775
+                  color: '#89e051'
+                - name: Java
+                  value: 11481
+                  color: '#b07219'
+                - name: Go
+                  value: 7443
+                  color: '#00ADD8'
+              contributions: >-
+                75;87;87;29;31;70;92;52;70;53;83;69;123;52;43;55;44;46;54;30;59;75;70;78;89;49;60;48;58;106;21;71;77;90;50;142;73;109;56;45;51;69;42;86;45;68;65;68;57;45;61;19
+              firstWeek: 2018-12-09Z
+              stars: 13292
+              license: Apache License 2.0
+              description: The AMP web component framework.
+              latest_commit_date: '2019-12-01T00:56:42Z'
+              latest_commit_link: /ampproject/amphtml/commit/b2cfdf95a05a6d1c951f0bff3be343e9fb44e145
+              release_date: '2019-11-14T19:02:45Z'
+              release_link: 'https://github.com/ampproject/amphtml/releases'
+              contributors_count: 793
+              contributors_link: 'https://github.com/ampproject/amphtml/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /powsybl/powsybl-core/commit/7defb875a7fabb2c11020f797c32d26c786244d0
-              start_date: '2016-04-07T09:42:08Z'
+              start_commit_link: /ampproject/amphtml/commit/5f414868caf5f431ebe64f840d6b1de6464085c4
+              start_date: '2015-09-02T23:03:45Z'
             image_data:
-              fileName: power-system-blocks.svg
-              hash: J3vFm3SiQoDXQbJ1Vtdm55JhtY7No6hBlj+BG4m/RMI=
+              fileName: amp.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-22T13:15:16.000Z
+              latest_tweet_date: 2019-11-25T19:16:59.000Z
+          - item:
+            name: nvm
+            homepage_url: 'https://github.com/nvm-sh/nvm'
+            project: incubating
+            repo_url: 'https://github.com/nvm-sh/nvm'
+            logo: nvm.svg
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: Shell
+                  value: 318099
+                  color: '#89e051'
+                - name: Makefile
+                  value: 5364
+                  color: '#427819'
+                - name: Dockerfile
+                  value: 4043
+                  color: '#384d54'
+                - name: JavaScript
+                  value: 38
+                  color: '#f1e05a'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;1;0;4;1;0;0
+              firstWeek: 2018-12-09Z
+              stars: 38429
+              license: MIT License
+              description: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+              latest_commit_date: '2019-11-12T19:16:08Z'
+              latest_commit_link: /nvm-sh/nvm/commit/73a513c389c73e19707e019f47bb6be8692e35d8
+              release_date: '2019-11-03T18:09:22Z'
+              release_link: 'https://github.com/nvm-sh/nvm/releases'
+              contributors_count: 247
+              contributors_link: 'https://github.com/nvm-sh/nvm/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /nvm-sh/nvm/commit/9cd2dd0c375d433468b3a23f480d4f2ca0b820bc
+              start_date: '2010-04-15T16:13:33Z'
+            image_data:
+              fileName: nvm.svg
+              hash: xIFs+YY+TdxVOne4ZUCmsFiEOYCYe1lKfqfPOBzf0SY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
+      - subcategory:
+        name: Emeritus
+        items:
+          - item:
+            name: Chassis
+            homepage_url: 'https://github.com/jquery/css-chassis'
+            project: emeritus
+            repo_url: 'https://github.com/jquery/css-chassis'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/chassis/chassis-logo-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 21626
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 18891
+                  color: '#e34c26'
+                - name: CSS
+                  value: 9589
+                  color: '#563d7c'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2018-12-09Z
+              stars: 332
+              license: Other
+              description: An attempt at creating an open standard for both CSS and JavaScript UI libraries.
+              latest_commit_date: '2016-10-05T18:24:37Z'
+              latest_commit_link: /jquery/css-chassis/commit/66e5b358524929657cca850856493b2060598aef
+              contributors_count: 21
+              contributors_link: 'https://github.com/jquery/css-chassis/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /jquery/css-chassis/commit/509d0c41172aba7c9f2ae151cf1705b4854e37e5
+              start_date: '2014-11-03T13:42:59Z'
+            image_data:
+              fileName: chassis.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
+          - item:
+            name: jQuery Mobile
+            homepage_url: 'https://jquerymobile.com/'
+            project: emeritus
+            repo_url: 'https://github.com/jquery/jquery-mobile'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/jquery_mobile/jquery_mobile-logo-horizontal-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 1161056
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 392452
+                  color: '#e34c26'
+                - name: CSS
+                  value: 164084
+                  color: '#563d7c'
+                - name: PHP
+                  value: 5743
+                  color: '#4F5D95'
+                - name: Hack
+                  value: 1180
+                  color: '#878787'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2018-12-09Z
+              stars: 9944
+              license: Other
+              description: jQuery Mobile Framework
+              latest_commit_date: '2019-06-14T17:54:59Z'
+              latest_commit_link: /jquery/jquery-mobile/commit/4a6395df87acc4065ba39c3ab17d419fdc1a585b
+              contributors_count: 231
+              contributors_link: 'https://github.com/jquery/jquery-mobile/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /jquery/jquery-mobile/commit/1d0fd4a7d8b852e10dfe91cd2920579ea4c30cc3
+              start_date: '2010-09-10T22:23:13Z'
+            image_data:
+              fileName: j-query-mobile.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
+          - item:
+            name: jQuery User Interface
+            homepage_url: 'https://jqueryui.com/'
+            project: emeritus
+            repo_url: 'https://github.com/jquery/jquery-ui'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/jquery_ui/jquery_ui-logo-horizontal-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 1452754
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 155294
+                  color: '#e34c26'
+                - name: CSS
+                  value: 42612
+                  color: '#563d7c'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2018-12-09Z
+              stars: 10749
+              license: Other
+              description: The official jQuery user interface library.
+              latest_commit_date: '2017-05-31T18:09:05Z'
+              latest_commit_link: /jquery/jquery-ui/commit/74f8a0ac952f6f45f773312292baef1c26d81300
+              contributors_count: 304
+              contributors_link: 'https://github.com/jquery/jquery-ui/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /jquery/jquery-ui/commit/b04b02b3eec0293255e8f5cca25b952f95e82c26
+              start_date: '2008-05-22T14:54:30Z'
+            image_data:
+              fileName: j-query-user-interface.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
+          - item:
+            name: RequireJS
+            homepage_url: 'https://requirejs.org/'
+            project: emeritus
+            repo_url: 'https://github.com/requirejs/requirejs'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/requirejs/requirejs-logo-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 334251
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 155214
+                  color: '#e34c26'
+                - name: Shell
+                  value: 2380
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2018-12-09Z
+              stars: 12397
+              license: Other
+              description: A file and module loader for JavaScript
+              latest_commit_date: '2019-05-18T19:22:06Z'
+              latest_commit_link: /requirejs/requirejs/commit/fdf4186d3e68df06a04bd71cb6ea0f24eb1600d1
+              contributors_count: 101
+              contributors_link: 'https://github.com/requirejs/requirejs/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /requirejs/requirejs/commit/d7ce62d5189818bcf1fab46b30e91f6d059d62bb
+              start_date: '2009-09-28T05:32:33Z'
+            image_data:
+              fileName: require-js.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
+          - item:
+            name: Sizzle
+            homepage_url: 'https://github.com/jquery/sizzle/wiki'
+            project: emeritus
+            repo_url: 'https://github.com/jquery/sizzle'
+            logo: sizzle.svg
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 206761
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 149264
+                  color: '#e34c26'
+                - name: CSS
+                  value: 18667
+                  color: '#563d7c'
+              contributions: 2;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;4;0;0;0;0;0;1;1;2;3;0;0;0;0;0
+              firstWeek: 2018-12-09Z
+              stars: 5760
+              license: Other
+              description: A sizzlin' hot selector engine.
+              latest_commit_date: '2019-10-21T16:59:44Z'
+              latest_commit_link: /jquery/sizzle/commit/af163873d7cdfc57f18b16c04b1915209533f0b1
+              release_date: '2014-07-01T15:10:21Z'
+              release_link: 'https://github.com/jquery/sizzle/releases'
+              contributors_count: 55
+              contributors_link: 'https://github.com/jquery/sizzle/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /jquery/sizzle/commit/51ba623126501dd9381040bbdcbabe12cc9056db
+              start_date: '2008-08-24T20:39:53Z'
+            image_data:
+              fileName: sizzle.svg
+              hash: bIBAbZWZ6kYrz1E9oFlTcVRqrTsubc8bxezadF8X00E=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
   - category:
     name: OpenJS Foundation Members
     subcategories:
