@@ -138,7 +138,7 @@ landscape:
             name: Datree (member)
             homepage_url: 'https://www.datree.io/'
             logo: 'https://openjsf.org/wp-content/uploads/sites/84/2019/04/datree-vertical.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/epfl'
+            crunchbase: 'https://www.crunchbase.com/organization/datree-io'
           - item:
             name: Fidelity Investments (member)
             homepage_url: 'https://www.fidelity.com/'
@@ -165,7 +165,59 @@ landscape:
             logo: 'https://landscape.cncf.io/logos/node-source.svg'
             crunchbase: 'https://www.crunchbase.com/organization/nodesource'
           - item:
+            name: npm (member)
+            homepage_url: 'https://www.npmjs.com/'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/npm'
+          - item:
+            name: Profound Logic (member)
+            homepage_url: 'https://www.profoundlogic.com/'
+            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/profound-logic'
+          - item:
+            name: Red Hat (member)
+            homepage_url: 'https://www.redhat.com/en'
+            stock_ticker: IBM
+            logo: 'https://www.cncf.io/wp-content/uploads/2016/09/red-hat-01.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
+          - item:
+            name: SafetyCulture (member)
+            homepage_url: 'https://safetyculture.com/'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/8/8d/SafetyCulture_Logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/safetyculture'
+          - item:
+            name: Sauce Labs (member)
+            homepage_url: 'https://saucelabs.com/'
+            logo: 'https://symbols.getvecta.com/stencil_95/25_sauce-labs.a8372c7e1f.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/sauce-labs'
+          - item:
+            name: SitePen (member)
+            homepage_url: 'https://www.sitepen.com/'
+            logo: 'https://openjsf.org/wp-content/uploads/sites/84/2019/04/sitepen.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/sitepen'
+          - item:
+            name: Snyk (member)
+            homepage_url: 'https://snyk.io/'
+            logo: 'https://landscape.cncf.io/logos/snyk-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/snyk'
+          - item:
+            name: Sourcegraph (member)
+            homepage_url: 'https://about.sourcegraph.com/'
+            logo: 'https://symbols.getvecta.com/stencil_96/50_sourcegraph.f9a481258e.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/sourcegraph'
+          - item:
             name: The Blog Starter (member)
             homepage_url: 'https://www.theblogstarter.com/'
             logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/the-blog-starter'
+          - item:
+            name: Vincit (member)
+            homepage_url: 'https://www.vincit.com/'
+            logo: 'https://www.vincit.fi/wp-content/themes/vincit/images/vincit-logo_red.svg'
+            twitter: 'https://twitter.com/vincitcali'
+            crunchbase: 'https://www.crunchbase.com/organization/vincit-oy'
+          - item:
+            name: YLD (member)
+            homepage_url: 'https://www.yld.io'
+            logo: 'https://www.cncf.io/wp-content/uploads/2018/08/yld-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/yld'

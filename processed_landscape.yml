@@ -752,26 +752,28 @@ landscape:
             name: Datree (member)
             homepage_url: 'https://www.datree.io/'
             logo: 'https://openjsf.org/wp-content/uploads/sites/84/2019/04/datree-vertical.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/epfl'
+            crunchbase: 'https://www.crunchbase.com/organization/datree-io'
             crunchbase_data:
-              name: École Polytechnique Fédérale de Lausanne
-              description: 'EPFL is a cosmopolitan technical university in Europe with students, professors, and staff from over 120 nations.'
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'http://www.epfl.ch'
-              city: Lausanne
-              region: Vaud
-              country: Switzerland
-              twitter: 'https://twitter.com/epfl_en'
-              linkedin: 'https://www.linkedin.com/company/epfl'
+              name: Datree
+              description: Datree provides a Visibility and Governance solution to R&D organisations.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.datree.io'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/datreeio'
+              linkedin: 'https://www.linkedin.com/company/18163472'
               parents: []
+              kind: funding
+              funding: 3000000
             image_data:
               fileName: datree-member.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-22T15:17:00.000Z
+              latest_tweet_date: 2019-11-28T23:05:06.000Z
           - item:
             name: Fidelity Investments (member)
             homepage_url: 'https://www.fidelity.com/'
@@ -904,6 +906,216 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-11-29T20:35:22.000Z
           - item:
+            name: npm (member)
+            homepage_url: 'https://www.npmjs.com/'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/npm'
+            crunchbase_data:
+              name: npm
+              description: npm is the package manager for the JavaScript programming language.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.npmjs.com'
+              city: Oakland
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/npmjs'
+              linkedin: 'https://www.linkedin.com/company/3585636/'
+              parents: []
+              kind: funding
+              funding: 10600000
+            image_data:
+              fileName: npm-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-28T18:20:03.000Z
+          - item:
+            name: Profound Logic (member)
+            homepage_url: 'https://www.profoundlogic.com/'
+            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/profound-logic'
+            crunchbase_data:
+              name: Profound Logic
+              description: Profound Logic provides comprehensive and native solutions for IBM i application development and modernization.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.profoundlogic.com/'
+              city: Dayton
+              region: Ohio
+              country: United States
+              twitter: 'https://twitter.com/profoundlogic'
+              linkedin: 'https://www.linkedin.com/company/profound-logic-software/'
+              parents: []
+            image_data:
+              fileName: profound-logic-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-30T19:07:14.000Z
+          - item:
+            name: Red Hat (member)
+            homepage_url: 'https://www.redhat.com/en'
+            stock_ticker: IBM
+            logo: 'https://www.cncf.io/wp-content/uploads/2016/09/red-hat-01.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
+            crunchbase_data:
+              name: Red Hat
+              description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'http://www.redhat.com'
+              city: Raleigh
+              region: North Carolina
+              country: United States
+              twitter: 'http://twitter.com/redhat'
+              linkedin: 'https://www.linkedin.com/company/red-hat'
+              parents:
+                - 'https://www.crunchbase.com/organization/ibm'
+              ticker: RHT
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 119073890304
+              effective_ticker: IBM
+            image_data:
+              fileName: red-hat-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-12-01T18:00:06.000Z
+          - item:
+            name: SafetyCulture (member)
+            homepage_url: 'https://safetyculture.com/'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/8/8d/SafetyCulture_Logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/safetyculture'
+            crunchbase_data:
+              name: SafetyCulture
+              description: SafetyCulture is a software for mobile workplace safety and quality management.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'https://safetyculture.com/'
+              city: Townsville
+              region: Queensland
+              country: Australia
+              twitter: 'http://twitter.com/SafetyCultureHQ'
+              linkedin: 'https://www.linkedin.com/company/safetyculture-pty-ltd'
+              parents: []
+              kind: funding
+              funding: 79397366
+            image_data:
+              fileName: safety-culture-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-21T15:06:52.000Z
+          - item:
+            name: Sauce Labs (member)
+            homepage_url: 'https://saucelabs.com/'
+            logo: 'https://symbols.getvecta.com/stencil_95/25_sauce-labs.a8372c7e1f.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/sauce-labs'
+            crunchbase_data:
+              name: Sauce Labs
+              description: Sauce Labs provides cloud-based testing for mobile and web applications.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://saucelabs.com/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/saucelabs'
+              linkedin: 'https://www.linkedin.com/company/sauce-labs/'
+              parents: []
+              kind: funding
+              funding: 151000000
+            image_data:
+              fileName: sauce-labs-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T07:01:08.000Z
+          - item:
+            name: SitePen (member)
+            homepage_url: 'https://www.sitepen.com/'
+            logo: 'https://openjsf.org/wp-content/uploads/sites/84/2019/04/sitepen.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/sitepen'
+            crunchbase_data:
+              name: SitePen
+              description: SitePen is a software development company focusing on creating web applications for businesses.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.sitepen.com'
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/SitePen'
+              linkedin: null
+              parents: []
+            image_data:
+              fileName: site-pen-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-25T19:09:37.000Z
+          - item:
+            name: Snyk (member)
+            homepage_url: 'https://snyk.io/'
+            logo: 'https://landscape.cncf.io/logos/snyk-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/snyk'
+            crunchbase_data:
+              name: Snyk
+              description: Snyk helps organizations find and fix vulnerabilities in open source dependencies and container images.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'https://snyk.io'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'https://www.twitter.com/snyksec'
+              linkedin: 'https://www.linkedin.com/company/snyk'
+              parents:
+                - 'https://www.crunchbase.com/organization/heavybit-industries'
+              kind: funding
+              funding: 102000000
+            image_data:
+              fileName: snyk-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-12-01T14:47:02.000Z
+          - item:
+            name: Sourcegraph (member)
+            homepage_url: 'https://about.sourcegraph.com/'
+            logo: 'https://symbols.getvecta.com/stencil_96/50_sourcegraph.f9a481258e.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/sourcegraph'
+            crunchbase_data:
+              name: Sourcegraph
+              description: Sourcegraph is creating the best way to read and understand code.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://sourcegraph.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/srcgraph'
+              linkedin: 'https://www.linkedin.com/company/sourcegraph'
+              parents: []
+              kind: funding
+              funding: 20000000
+            image_data:
+              fileName: sourcegraph-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-20T18:36:00.000Z
+          - item:
             name: The Blog Starter (member)
             homepage_url: 'https://www.theblogstarter.com/'
             logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
@@ -927,5 +1139,54 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-11-03T01:14:44.000Z
+          - item:
+            name: Vincit (member)
+            homepage_url: 'https://www.vincit.com/'
+            logo: 'https://www.vincit.fi/wp-content/themes/vincit/images/vincit-logo_red.svg'
+            twitter: 'https://twitter.com/vincitcali'
+            crunchbase: 'https://www.crunchbase.com/organization/vincit-oy'
+            crunchbase_data:
+              name: Vincit
+              description: Vincit is Software development expert.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'http://www.vincit.fi/'
+              city: Tampere
+              region: Western Finland
+              country: Finland
+              twitter: 'https://www.twitter.com/vincitoy'
+              linkedin: 'https://www.linkedin.com/company/vincit-oy'
+              parents: []
+            image_data:
+              fileName: vincit-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-30T00:49:22.000Z
+          - item:
+            name: YLD (member)
+            homepage_url: 'https://www.yld.io'
+            logo: 'https://www.cncf.io/wp-content/uploads/2018/08/yld-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/yld'
+            crunchbase_data:
+              name: YLD
+              description: YLD helps enterprises win by delivering mission critical software built by the best web engineers in Europe
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'https://yld.io/'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'https://twitter.com/yldio'
+              linkedin: 'https://www.linkedin.com/company/5045725'
+              parents: []
+            image_data:
+              fileName: yld-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T18:51:45.000Z
 twitter_options:
   count: 0

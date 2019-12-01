@@ -168,7 +168,7 @@ big_picture:
             image: right-logo.svg
             width: 109
             right: 25
-            top: 15
+            top: 10
 test:
   header: OpenJS Foundation Interactive Landscape
   section: Impact
