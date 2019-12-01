@@ -135,6 +135,56 @@ landscape:
             logo: coil.svg
             crunchbase: 'https://www.crunchbase.com/organization/coil-technologies'
           - item:
+            name: The Blog Starter (member)
+            homepage_url: 'https://www.theblogstarter.com/'
+            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/the-blog-starter'
+          - item:
+            name: BrowserStack (member)
+            homepage_url: 'https://www.browserstack.com/'
+            logo: 'https://marker.io/vendor/img/logo/browserstack-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/browserstack'
+          - item:
+            name: Cloud Grey (member)
+            homepage_url: 'https://cloudgrey.io/'
+            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-grey'
+          - item:
+            name: COIL (member)
+            homepage_url: 'https://coil.com/'
+            logo: coil.svg
+            crunchbase: 'https://www.crunchbase.com/organization/coil-technologies'
+          - item:
+            name: Fidelity Investments (member)
+            homepage_url: 'https://www.fidelity.com/'
+            logo: 'https://landscape.cncf.io/logos/fidelity-investments-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/fidelity-investments'
+          - item:
+            name: Groupon (member)
+            homepage_url: 'https://www.groupon.com/'
+            logo: 'https://customer-stories-feed.github.com/customer_stories/groupon/logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/groupon'
+          - item:
+            name: HackerOne (member)
+            homepage_url: 'https://www.hackerone.com/'
+            logo: 'https://communitybridge.org/wp-content/uploads/2019/03/hackerone-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/hackerone'
+          - item:
+            name: Nearform (member)
+            homepage_url: 'https://www.nearform.com/'
+            logo: nearform.svg
+            crunchbase: 'https://www.crunchbase.com/organization/nearform'
+          - item:
+            name: Nodesource (member)
+            homepage_url: 'https://www.nodesource.com/'
+            logo: 'https://landscape.cncf.io/logos/node-source.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/nodesource'
+          - item:
+            name: ENTSO-E
+            homepage_url: 'https://www.entsoe.eu'
+            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/entso-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/entso-e'
+          - item:
             name: EPFL
             homepage_url: 'https://www.epfl.ch/en/'
             logo: 'https://www.epfl.ch/wp-content/themes/wp-theme-2018/assets/svg/epfl-logo.svg'

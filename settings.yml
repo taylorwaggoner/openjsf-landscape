@@ -35,7 +35,7 @@ relation:
           tag: Impact
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: OpenJS Foundation Impact
+          big_picture_label: OpenJSF Impact
           big_picture_color: 'rgb(24,54,114)'
         - id: growth
           label: Growth
@@ -43,7 +43,7 @@ relation:
           tag: Growth
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: OpenJS Foundation Growth
+          big_picture_label: OpenJSF Growth
           big_picture_color: 'rgb(24,54,114)'
         - id: at-large
           label: At-Large
@@ -51,15 +51,7 @@ relation:
           tag: At-Large
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: OpenJS Foundation At-Large
-          big_picture_color: 'rgb(24,54,114)'
-        - id: emeritus
-          label: Emeritus
-          prefix: OpenJS Foundation
-          tag: Emeritus
-          color: '#3570af'
-          big_picture_order: 1
-          big_picture_label: OpenJS Foundation Emeritus
+          big_picture_label: OpenJSF Sandbox
           big_picture_color: 'rgb(24,54,114)'
     - id: company
       label: OpenJS Foundation Members
@@ -81,7 +73,6 @@ membership:
     name: OpenJS Foundation
     label: Gold
     funding: Gold
-    is_large: true
   Silver:
     name: OpenJS Foundation
     label: Silver
@@ -126,7 +117,7 @@ big_picture:
     elements:
       - type: HorizontalCategory
         category: Projects
-        rows: 2
+        rows: 4
         width: 585
         height: 200
         top: 10
