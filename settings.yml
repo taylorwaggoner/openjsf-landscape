@@ -29,13 +29,13 @@ relation:
     - id: hosted
       label: OpenJS Foundation Projects
       children:
-        - id: at_large
-          label: At Large
+        - id: impact
+          label: Impact
           prefix: OpenJS Foundation
-          tag: At Large
+          tag: Impact
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: OpenJS Foundation At Large
+          big_picture_label: OpenJS Foundation Impact
           big_picture_color: 'rgb(24,54,114)'
         - id: growth
           label: Growth
@@ -45,15 +45,22 @@ relation:
           big_picture_order: 1
           big_picture_label: OpenJS Foundation Growth
           big_picture_color: 'rgb(24,54,114)'
-        - id: sandbox
-          label: Sandbox
+        - id: at-large
+          label: At-Large
           prefix: OpenJS Foundation
-          tag: Sandbox
+          tag: At-Large
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: OpenJS Foundation Sandbox
+          big_picture_label: OpenJS Foundation At-Large
           big_picture_color: 'rgb(24,54,114)'
-          additional_relation: member
+        - id: emeritus
+          label: Emeritus
+          prefix: OpenJS Foundation
+          tag: Emeritus
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: OpenJS Foundation Emeritus
+          big_picture_color: 'rgb(24,54,114)'
     - id: company
       label: OpenJS Foundation Members
       tag: Company
@@ -172,5 +179,5 @@ big_picture:
             top: 15
 test:
   header: OpenJS Foundation Interactive Landscape
-  section: Growth
-  logo: operator-fabric.svg
+  section: Impact
+  logo: appium.svg
