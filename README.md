@@ -1,10 +1,10 @@
-[![Dependency Status](https://img.shields.io/david/lf-energy/lfenergy-landscape.svg?style=flat-square)](https://david-dm.org/lfenergy/lfenergy-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/57bcc258-c6d6-4b74-ada3-f829c842e847/deploy-status)](https://app.netlify.com/sites/lfenergy/deploys)
+[![Dependency Status](https://img.shields.io/david/dankohn/openjsf-landscape.svg?style=flat-square)](https://david-dm.org/dankohn/openjsf-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/354faf5a-8d83-478d-be43-57e866c6066d/deploy-status)](https://app.netlify.com/sites/openjsf-landscape/deploys)
 
-# Linux Foundation Energy Landscape
+# OpenJS Foundation Landscape
 
-![LFEnergy Landscape Logo](https://github.com/lf-energy/lfenergy-landscape/blob/master/images/left-logo.svg)
+![OpenJSF Landscape Logo](https://github.com/dankohn/openjsf-landscape/blob/master/images/left-logo.svg)
 
-- [LF Energy Landscape](#cloud-native-landscape)
+- [OpenJS Foundation Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
@@ -20,20 +20,19 @@
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
-The intent is for the Landscape to be a living document that developers, investors, vendors, researchers and others can use as a resource on the landscape of Energy computing. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code. 
+This OpenJS Foundation Landscape is a living document that developers, vendors, end users and others can use as a resource to better understand the OpenJSF ecosystem of projects and members. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code. 
 
 ## Current Version
 
-[![LF Energy Landscape](https://landscape.lfenergy.org/images/landscape.png)](https://landscape.lfenergy.org/images/landscape.png)
+[![OpenJS Foundation Landscape](https://openjsf-landscape.netlify.com/images/landscape.png)](https://openjsf-landscape.netlify.com/images/landscape.png)
 
 ## Interactive Version
 
-Please see [landscape.lfenergy.org](https://landscape.lfenergy.org).
+Please see [openjsf-landscape.netlify.com](https://openjsf-landscape.netlify.com).
 
 ## New Entries
 
 * Projects must be open source and hosted on or mirrored to GitHub.
-* Energy computing projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
 * We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
 * Your project or company needs a logo and the logo needs to include the name.
 * Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
@@ -88,13 +87,13 @@ The update server enhances the source data with the fetched data and saves the r
 As explained at https://bestpractices.coreinfrastructure.org/:
 >The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The CII Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.
 
-The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](landscape.lfenergy.org/bestpractices=yes) and [without](https://landscape.lfenergy.org/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
+The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](openjsf-landscape.netlify.com/bestpractices=yes) and [without](https://openjsf-landscape.netlify.com/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
 
 ## Non-Updated Items
 
-We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: landscape.lfenergy.org/grouping=no&license=open-source&sort=latest-commit
+We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: openjsf-landscape.netlify.com/grouping=no&license=open-source&sort=latest-commit
 
-We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: landscape.lfenergy.org/grouping=no&license=not-open-source&sort=latest-tweet
+We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: openjsf-landscape.netlify.com/grouping=no&license=not-open-source&sort=latest-tweet
 
 Items that have been removed can apply to be re-added using the regular New Entries criteria above.
 
@@ -106,10 +105,10 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 ## Formats
 
-The LF Energy Landscape is available in these formats:
+The OpenJS Foundation Landscape is available in these formats:
 
-* [PNG](https://landscape.lfenergy.org/images/landscape.png)
-* [PDF](https://landscape.lfenergy.org/images/landscape.pdf)
+* [PNG](https://openjsf-landscape.netlify.com/images/landscape.png)
+* [PDF](https://openjsf-landscape.netlify.com/images/landscape.pdf)
 
 ## Installation
 
