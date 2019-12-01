@@ -155,6 +155,55 @@ landscape:
             repo_url: 'https://github.com/jerryscript-project/jerryscript'
             logo: jerryscript.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: libuv
+            homepage_url: 'https://libuv.org/'
+            project: at-large
+            repo_url: 'https://github.com/libuv/libuv'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/libuv/libuv-logo-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: Lodash
+            homepage_url: 'https://lodash.com/'
+            project: at-large
+            repo_url: 'https://github.com/lodash/lodash'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/lodash/lodash-icon-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: Marko
+            homepage_url: 'https://markojs.com/'
+            project: at-large
+            repo_url: 'https://github.com/marko-js/marko'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/marko/marko-logo-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: Messageformat
+            homepage_url: 'https://messageformat.github.io/messageformat/'
+            project: at-large
+            repo_url: 'https://github.com/messageformat/messageformat'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/messageformat/messageformat-logo-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: Moment
+            homepage_url: 'https://momentjs.com/'
+            project: at-large
+            repo_url: 'https://github.com/moment/moment'
+            logo: 'https://www.brandeps.com/logo-download/M/Moment-JS-logo-vector-01.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: PEP
+            homepage_url: 'https://github.com/jquery/pep'
+            project: at-large
+            repo_url: 'https://github.com/jquery/pep'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/pep/pep-icon-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: QUnit
+            homepage_url: 'https://qunitjs.com/'
+            project: at-large
+            repo_url: 'https://github.com/qunitjs/qunit'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/qunit/qunit-logo-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
       - subcategory:
         name: Power System Calculation
         items:

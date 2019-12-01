@@ -1096,6 +1096,371 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-11-29T17:54:28.000Z
+          - item:
+            name: libuv
+            homepage_url: 'https://libuv.org/'
+            project: at-large
+            repo_url: 'https://github.com/libuv/libuv'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/libuv/libuv-logo-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: C
+                  value: 2615395
+                  color: '#555555'
+                - name: C++
+                  value: 51259
+                  color: '#f34b7d'
+                - name: Python
+                  value: 30803
+                  color: '#3572A5'
+                - name: Makefile
+                  value: 21187
+                  color: '#427819'
+                - name: M4
+                  value: 15263
+                - name: CMake
+                  value: 13461
+                - name: Batchfile
+                  value: 7502
+                  color: '#C1F12E'
+                - name: Shell
+                  value: 4184
+                  color: '#89e051'
+              contributions: 6;3;3;2;5;6;13;1;4;5;7;16;3;2;5;3;7;0;6;6;8;6;1;4;9;2;6;2;7;6;10;2;1;3;5;9;8;3;1;14;6;5;4;3;7;12;3;1;0;0;6;1
+              firstWeek: 2018-12-09Z
+              stars: 13961
+              license: Other
+              description: Cross-platform asynchronous I/O
+              latest_commit_date: '2019-11-20T16:40:57Z'
+              latest_commit_link: /libuv/libuv/commit/cf6a678fa4b915a23feac0aa35f511c80cb855ee
+              contributors_count: 359
+              contributors_link: 'https://github.com/libuv/libuv/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /libuv/libuv/commit/133b4e3999221ba654744262cb065c3aafce3312
+              start_date: '2011-03-23T08:39:59Z'
+            image_data:
+              fileName: libuv.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
+          - item:
+            name: Lodash
+            homepage_url: 'https://lodash.com/'
+            project: at-large
+            repo_url: 'https://github.com/lodash/lodash'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/lodash/lodash-icon-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 1058779
+                  color: '#f1e05a'
+              contributions: 6;5;0;1;0;1;1;1;1;0;3;1;0;0;1;1;0;0;0;2;0;1;0;0;0;0;1;0;0;2;2;0;0;2;0;0;8;10;6;0;0;0;1;2;0;1;0;0;1;1;1;0
+              firstWeek: 2018-12-09Z
+              stars: 42564
+              license: Other
+              description: 'A modern JavaScript utility library delivering modularity, performance, & extras.'
+              latest_commit_date: '2019-11-19T21:35:48Z'
+              latest_commit_link: /lodash/lodash/commit/cefddab1cab49189b2ff4d72acf8df7ec723dc22
+              release_date: '2016-01-12T22:35:11Z'
+              release_link: 'https://github.com/lodash/lodash/releases'
+              contributors_count: 288
+              contributors_link: 'https://github.com/lodash/lodash/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /lodash/lodash/commit/02ede85b539a89a44a71ce098f09a9553a3a6890
+              start_date: '2009-10-25T18:36:12Z'
+            image_data:
+              fileName: lodash.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
+          - item:
+            name: Marko
+            homepage_url: 'https://markojs.com/'
+            project: at-large
+            repo_url: 'https://github.com/marko-js/marko'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/marko/marko-logo-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 1977060
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 745473
+                  color: '#e34c26'
+                - name: Vue
+                  value: 861
+                  color: '#2c3e50'
+                - name: CSS
+                  value: 31
+                  color: '#563d7c'
+              contributions: 14;23;1;24;12;9;12;6;17;6;13;3;6;4;17;9;9;12;3;8;4;3;2;13;12;4;10;9;6;15;17;15;5;2;0;8;1;0;8;0;0;6;0;0;0;11;9;11;11;0;5;6
+              firstWeek: 2018-12-09Z
+              stars: 9296
+              license: MIT License
+              description: 'A declarative, HTML-based language that makes building web apps fun'
+              latest_commit_date: '2019-11-27T22:04:56Z'
+              latest_commit_link: /marko-js/marko/commit/e1bf215968a22d71cffcd845820e4f64ec907695
+              contributors_count: 96
+              contributors_link: 'https://github.com/marko-js/marko/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /marko-js/marko/commit/ff475c6e62b01096712d396c9515d31c8e4992cd
+              start_date: '2014-01-07T23:59:30Z'
+            image_data:
+              fileName: marko.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
+          - item:
+            name: Messageformat
+            homepage_url: 'https://messageformat.github.io/messageformat/'
+            project: at-large
+            repo_url: 'https://github.com/messageformat/messageformat'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/messageformat/messageformat-logo-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 133072
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 1823
+                  color: '#e34c26'
+                - name: Shell
+                  value: 344
+                  color: '#89e051'
+              contributions: 2;4;7;1;16;0;0;0;0;0;0;0;7;2;0;1;0;16;7;10;2;7;0;2;0;1;0;0;2;1;14;1;9;0;0;21;0;0;12;17;0;0;1;0;19;9;3;0;1;1;0;1
+              firstWeek: 2018-12-09Z
+              stars: 1398
+              license: MIT License
+              description: ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages
+              latest_commit_date: '2019-11-29T13:13:04Z'
+              latest_commit_link: /messageformat/messageformat/commit/eb4f194759629332c80e695a0a9ef64b6e51a422
+              release_date: '2018-12-15T23:05:16Z'
+              release_link: 'https://github.com/messageformat/messageformat/releases'
+              contributors_count: 46
+              contributors_link: 'https://github.com/messageformat/messageformat/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /messageformat/messageformat/commit/7b8cf2bcccdd979f84403e3e299672c2ce69565b
+              start_date: '2012-01-25T12:56:55Z'
+            image_data:
+              fileName: messageformat.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
+          - item:
+            name: Moment
+            homepage_url: 'https://momentjs.com/'
+            project: at-large
+            repo_url: 'https://github.com/moment/moment'
+            logo: 'https://www.brandeps.com/logo-download/M/Moment-JS-logo-vector-01.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 8563313
+                  color: '#f1e05a'
+                - name: TypeScript
+                  value: 13702
+                  color: '#2b7489'
+                - name: Shell
+                  value: 739
+                  color: '#89e051'
+              contributions: 0;12;0;0;0;0;15;13;2;0;1;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2018-12-09Z
+              stars: 42868
+              license: MIT License
+              description: 'Parse, validate, manipulate, and display dates in javascript.'
+              latest_commit_date: '2019-06-10T08:05:56Z'
+              latest_commit_link: /moment/moment/commit/13a61b285c095bda7ea8e33156090ea5ccfeaef1
+              contributors_count: 489
+              contributors_link: 'https://github.com/moment/moment/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /moment/moment/commit/52e2408c33bcedf9907f987b7b95aa7efbfeb7bc
+              start_date: '2011-03-01T02:53:16Z'
+            image_data:
+              fileName: moment.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
+          - item:
+            name: PEP
+            homepage_url: 'https://github.com/jquery/pep'
+            project: at-large
+            repo_url: 'https://github.com/jquery/pep'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/pep/pep-icon-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 83577
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 164
+                  color: '#e34c26'
+              contributions: 0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;13;4;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2018-12-09Z
+              stars: 1531
+              license: Other
+              description: 'Pointer Events Polyfill: a unified event system for the web platform'
+              latest_commit_date: '2019-06-13T18:00:56Z'
+              latest_commit_link: /jquery/PEP/commit/8dac8558c13c6208ca3ad9f22df1878fc347e1e3
+              release_date: '2017-05-07T14:05:37Z'
+              release_link: 'https://github.com/jquery/pep/releases'
+              contributors_count: 38
+              contributors_link: 'https://github.com/jquery/pep/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /jquery/PEP/commit/fede3e7b0078d53d6ed2cb4f236b6179d4b1956c
+              start_date: '2012-08-23T22:58:12Z'
+            image_data:
+              fileName: pep.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
+          - item:
+            name: QUnit
+            homepage_url: 'https://qunitjs.com/'
+            project: at-large
+            repo_url: 'https://github.com/qunitjs/qunit'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/qunit/qunit-logo-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 392436
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 18665
+                  color: '#e34c26'
+                - name: CSS
+                  value: 7992
+                  color: '#563d7c'
+              contributions: 1;2;4;6;4;7;1;0;0;0;0;5;2;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;2;0;0;0;0;0;0;1;0;0;0;0;0;0;2;4;0;0;0;0;0;0;0
+              firstWeek: 2018-12-09Z
+              stars: 3834
+              license: Other
+              description: An easy-to-use JavaScript Unit Testing framework.
+              latest_commit_date: '2019-10-08T15:50:54Z'
+              latest_commit_link: /qunitjs/qunit/commit/e6787290d6bae6b4332e985d0ac035f4bce9b21d
+              release_date: '2019-10-08T15:56:04Z'
+              release_link: 'https://github.com/qunitjs/qunit/releases'
+              contributors_count: 147
+              contributors_link: 'https://github.com/qunitjs/qunit/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /qunitjs/qunit/commit/bc616098c26b60eaf67a458db59c8a6164036277
+              start_date: '2008-05-08T19:25:39Z'
+            image_data:
+              fileName: q-unit.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:54:28.000Z
       - subcategory:
         name: Power System Calculation
         items:
