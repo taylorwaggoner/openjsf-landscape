@@ -46,15 +46,53 @@ landscape:
             twitter: 'https://twitter.com/webpack'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
       - subcategory:
-        name: Data Management
+        name: Growth
         items:
           - item:
-            name: Open Energy Data Initiative (OEDI)
-            description: Improving Data Access to Enable Advanced Analytics and Research Innovation
-            homepage_url: 'https://openei.org/wiki/Data'
+            name: Architect
+            homepage_url: 'https://arc.codes/'
             project: growth
-            logo: oedi.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
+            repo_url: 'https://github.com/architect/functions'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/architect/architect-logo-stacked-grayscale.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: Intern
+            homepage_url: 'https://theintern.io/'
+            project: growth
+            repo_url: 'https://github.com/theintern/intern'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/intern/intern-logo-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: Mocha
+            homepage_url: 'https://mochajs.org/'
+            project: growth
+            repo_url: 'https://github.com/mochajs/mocha'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/mocha/mocha-icon-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: Node-RED
+            homepage_url: 'https://nodered.org/'
+            project: growth
+            repo_url: 'https://github.com/node-red/node-red'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/node_red/node_red-logo-stacked-color.svg'
+            twitter: 'https://twitter.com/nodered'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: WebdriverIO
+            homepage_url: 'https://webdriver.io/'
+            project: growth
+            repo_url: 'https://github.com/webdriverio/webdriverio'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/webdriverio/webdriverio-icon-color.svg'
+            twitter: 'https://twitter.com/webdriverio'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: Webhint.io
+            homepage_url: 'https://webhint.io/'
+            project: growth
+            repo_url: 'https://github.com/webhintio/hint'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/webhint/webhint-logo-stacked-color.svg'
+            twitter: 'https://twitter.com/webhintio'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
       - subcategory:
         name: UX Components & Framework
         items:

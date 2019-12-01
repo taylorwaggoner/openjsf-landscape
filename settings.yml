@@ -74,6 +74,7 @@ membership:
     name: OpenJS Foundation
     label: Gold
     funding: Gold
+    is_large: true
   Silver:
     name: OpenJS Foundation
     label: Silver
@@ -108,36 +109,36 @@ big_picture:
     url: landscape
     name: Landscape
     title: OpenJS Foundation Landscape
-    fullscreen_header: Interactive landscape is at openjsf-landscape.netlify.com
+    fullscreen_header: Interactive version at openjsf-landscape.netlify.com
     size:
       width: 950
-      height: 470
+      height: 534
     fullscreen_size:
       width: 950
-      height: 470
+      height: 534
     elements:
       - type: HorizontalCategory
         category: Projects
         rows: 4
-        width: 585
-        height: 200
+        width: 900
+        height: 400
         top: 10
         left: 0
         color: 'rgb(104, 145, 145)'
         fit_width: true
       - type: HorizontalCategory
         category: OpenJS Foundation Members
-        rows: 3
-        width: 900
-        height: 170
-        top: 230
+        rows: 4
+        width: 600
+        height: 200
+        top: 430
         left: 0
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: LandscapeInfo
         width: 280
         height: 200
-        top: 10
+        top: 430
         left: 620
         children:
           - type: text
