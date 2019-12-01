@@ -44,6 +44,14 @@ relation:
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: OpenJSF Growth
+          big_picture_color: 'rgb(83, 113, 189)'
+        - id: at-large
+          label: At-Large
+          prefix: OpenJS Foundation
+          tag: At-Large
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: OpenJSF At-Large
           big_picture_color: 'rgb(24,54,114)'
         - id: sandbox
           label: Sandbox
@@ -119,7 +127,7 @@ big_picture:
     elements:
       - type: HorizontalCategory
         category: Projects
-        rows: 4
+        rows: 8
         width: 900
         height: 400
         top: 10
