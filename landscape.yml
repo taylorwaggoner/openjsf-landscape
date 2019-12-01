@@ -18,7 +18,7 @@ landscape:
             homepage_url: 'https://dojo.io/'
             project: impact
             repo_url: 'https://github.com/dojo/framework'
-            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/dojo/dojo-logo-stacked-color.svg'
             twitter: 'https://twitter.com/dojo'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
@@ -120,26 +120,6 @@ landscape:
         name: Silver
         items:
           - item:
-            name: BrowserStack
-            homepage_url: 'https://www.browserstack.com/'
-            logo: 'https://marker.io/vendor/img/logo/browserstack-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/browserstack'
-          - item:
-            name: Cloud Grey
-            homepage_url: 'https://cloudgrey.io/'
-            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-grey'
-          - item:
-            name: COIL
-            homepage_url: 'https://coil.com/'
-            logo: coil.svg
-            crunchbase: 'https://www.crunchbase.com/organization/coil-technologies'
-          - item:
-            name: The Blog Starter (member)
-            homepage_url: 'https://www.theblogstarter.com/'
-            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/the-blog-starter'
-          - item:
             name: BrowserStack (member)
             homepage_url: 'https://www.browserstack.com/'
             logo: 'https://marker.io/vendor/img/logo/browserstack-logo.svg'
@@ -154,6 +134,11 @@ landscape:
             homepage_url: 'https://coil.com/'
             logo: coil.svg
             crunchbase: 'https://www.crunchbase.com/organization/coil-technologies'
+          - item:
+            name: Datree (member)
+            homepage_url: 'https://www.datree.io/'
+            logo: 'https://openjsf.org/wp-content/uploads/sites/84/2019/04/datree-vertical.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/epfl'
           - item:
             name: Fidelity Investments (member)
             homepage_url: 'https://www.fidelity.com/'
@@ -180,87 +165,7 @@ landscape:
             logo: 'https://landscape.cncf.io/logos/node-source.svg'
             crunchbase: 'https://www.crunchbase.com/organization/nodesource'
           - item:
-            name: ENTSO-E
-            homepage_url: 'https://www.entsoe.eu'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/entso-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/entso-e'
-          - item:
-            name: EPFL
-            homepage_url: 'https://www.epfl.ch/en/'
-            logo: 'https://www.epfl.ch/wp-content/themes/wp-theme-2018/assets/svg/epfl-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/epfl'
-          - item:
-            name: FIWARE
-            homepage_url: 'https://www.fiware.org'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/fiware-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/fi-ware'
-          - item:
-            name: Fraunhofer
-            homepage_url: 'https://www.iee.fraunhofer.de'
-            logo: fraunhofer.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fraunhofer-gesellschaft'
-          - item:
-            name: Freedm Systems Center
-            homepage_url: 'https://www.freedm.ncsu.edu'
-            logo: 'https://ncenergyconference.com/assets/img/sponsor/freedm-systems-center-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/freedm-systems-center'
-          - item:
-            name: Iowa State University
-            homepage_url: 'https://www.iastate.edu/'
-            logo: 'https://cdn.theme.iastate.edu/img/isu-stacked.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/iowa-state-university'
-          - item:
-            name: Lucerne University of Applied Sciences and Arts
-            homepage_url: 'https://www.hslu.ch/en/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1f/Hochschule_Luzern_Logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/lucerne-university-of-applied-sciences-and-arts'
-          - item:
-            name: Monash University
-            homepage_url: 'https://www.monash.edu'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/monash-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/monash-university'
-          - item:
-            name: NREL
-            homepage_url: 'https://www.nrel.gov'
-            logo: 'https://www.fcpad.org/images/logo-nrel.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/national-renewable-energy-laboratory'
-          - item:
-            name: Project Haystack
-            homepage_url: 'https://project-haystack.org'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/project-haystack-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/project-haystack'
-          - item:
-            name: Stanford University
-            homepage_url: 'https://engineering.stanford.edu'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Stanford_wordmark_%282012%29.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/stanford-university'
-          - item:
-            name: Tennet
-            homepage_url: 'https://www.tennet.eu/'
-            logo: 'https://euro-drone-inspections.eu/wp-content/uploads/2019/04/Tennet-Logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/tennet'
-          - item:
-            name: The Blog Starter
+            name: The Blog Starter (member)
             homepage_url: 'https://www.theblogstarter.com/'
             logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/the-blog-starter'
-          - item:
-            name: The Energy Coalition
-            homepage_url: 'https://energycoalition.org'
-            logo: 'https://energycoalition.org/wp-content/uploads/2017/11/tec-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/the-energy-coalition'
-          - item:
-            name: University of Kassel
-            homepage_url: 'https://www.uni-kassel.de/uni/en/'
-            logo: 'https://www.uni-kassel.de/uni/fileadmin/sys/resources/images/logo/logo-main.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/university-of-kassel'
-          - item:
-            name: Vanderbilt University
-            homepage_url: 'https://www.vanderbilt.edu'
-            logo: 'https://upload.wikimedia.org/wikipedia/su/f/ff/Vanderbilt_University_wordmark.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/vanderbilt-university'
-          - item:
-            name: Washington State University
-            homepage_url: 'https://school.eecs.wsu.edu'
-            logo: 'https://brand.wsu.edu/wp-content/themes/brand/images/pages/logos/wsu-signature-vertical.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/washington-state-university'

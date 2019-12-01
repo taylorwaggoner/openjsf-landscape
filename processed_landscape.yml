@@ -73,7 +73,7 @@ landscape:
             homepage_url: 'https://dojo.io/'
             project: impact
             repo_url: 'https://github.com/dojo/framework'
-            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/dojo/dojo-logo-stacked-color.svg'
             twitter: 'https://twitter.com/dojo'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
@@ -672,107 +672,6 @@ landscape:
         name: Silver
         items:
           - item:
-            name: BrowserStack
-            homepage_url: 'https://www.browserstack.com/'
-            logo: 'https://marker.io/vendor/img/logo/browserstack-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/browserstack'
-            crunchbase_data:
-              name: BrowserStack
-              description: BrowserStack is the most reliable web and mobile app testing platform on the market.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: 'http://www.browserstack.com/'
-              city: Mumbai
-              region: Maharashtra
-              country: India
-              twitter: 'http://twitter.com/browserstack'
-              linkedin: 'https://www.linkedin.com/company/2553488/'
-              parents: []
-              kind: funding
-              funding: 50000000
-            image_data:
-              fileName: browser-stack.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-27T16:23:09.000Z
-          - item:
-            name: Cloud Grey
-            homepage_url: 'https://cloudgrey.io/'
-            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-grey'
-            crunchbase_data:
-              name: Cloud Grey
-              description: Achieve mobile testing greatness with Cloud Grey
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://cloudgrey.io/'
-              city: Vancouver
-              region: British Columbia
-              country: Canada
-              twitter: 'https://twitter.com/cloudgrey_io'
-              linkedin: null
-              parents: []
-            image_data:
-              fileName: cloud-grey.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-10-10T21:15:00.000Z
-          - item:
-            name: COIL
-            homepage_url: 'https://coil.com/'
-            logo: coil.svg
-            crunchbase: 'https://www.crunchbase.com/organization/coil-technologies'
-            crunchbase_data:
-              name: Coil
-              description: 'Web, Content, Monetization'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://coil.com/'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/coil'
-              linkedin: 'https://linkedin.com/company/coilhq'
-              parents: []
-              kind: funding
-              funding: 269000000
-            image_data:
-              fileName: coil.svg
-              hash: 6tcAMiYlZ4yk5GPI/sduucKWIv6zy+8it1Ru14ArWCk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-22T15:33:03.000Z
-          - item:
-            name: The Blog Starter (member)
-            homepage_url: 'https://www.theblogstarter.com/'
-            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/the-blog-starter'
-            crunchbase_data:
-              name: The Blog Starter
-              description: 'a free, easy, step-by-step guide on how to start a blog'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.theblogstarter.com/'
-              city: Chicago
-              region: Illinois
-              country: United States
-              twitter: 'https://twitter.com/BlogChow'
-              linkedin: null
-              parents: []
-            image_data:
-              fileName: the-blog-starter-member.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-03T01:14:44.000Z
-          - item:
             name: BrowserStack (member)
             homepage_url: 'https://www.browserstack.com/'
             logo: 'https://marker.io/vendor/img/logo/browserstack-logo.svg'
@@ -849,6 +748,30 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-11-22T15:33:03.000Z
+          - item:
+            name: Datree (member)
+            homepage_url: 'https://www.datree.io/'
+            logo: 'https://openjsf.org/wp-content/uploads/sites/84/2019/04/datree-vertical.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/epfl'
+            crunchbase_data:
+              name: École Polytechnique Fédérale de Lausanne
+              description: 'EPFL is a cosmopolitan technical university in Europe with students, professors, and staff from over 120 nations.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://www.epfl.ch'
+              city: Lausanne
+              region: Vaud
+              country: Switzerland
+              twitter: 'https://twitter.com/epfl_en'
+              linkedin: 'https://www.linkedin.com/company/epfl'
+              parents: []
+            image_data:
+              fileName: datree-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-22T15:17:00.000Z
           - item:
             name: Fidelity Investments (member)
             homepage_url: 'https://www.fidelity.com/'
@@ -981,302 +904,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-11-29T20:35:22.000Z
           - item:
-            name: ENTSO-E
-            homepage_url: 'https://www.entsoe.eu'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/entso-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/entso-e'
-            crunchbase_data:
-              name: ENTSO-E
-              description: ENTSO-E publishes its initial proposals on the Energy Union.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://entsoe.eu'
-              city: Brussels
-              region: Brussels Hoofdstedelijk Gewest
-              country: Belgium
-              twitter: 'https://twitter.com/entso_e'
-              linkedin: 'https://www.linkedin.com/company/entso-e'
-              parents: []
-            image_data:
-              fileName: entso-e.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-29T14:48:06.000Z
-          - item:
-            name: EPFL
-            homepage_url: 'https://www.epfl.ch/en/'
-            logo: 'https://www.epfl.ch/wp-content/themes/wp-theme-2018/assets/svg/epfl-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/epfl'
-            crunchbase_data:
-              name: École Polytechnique Fédérale de Lausanne
-              description: 'EPFL is a cosmopolitan technical university in Europe with students, professors, and staff from over 120 nations.'
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'http://www.epfl.ch'
-              city: Lausanne
-              region: Vaud
-              country: Switzerland
-              twitter: 'https://twitter.com/epfl_en'
-              linkedin: 'https://www.linkedin.com/company/epfl'
-              parents: []
-            image_data:
-              fileName: epfl.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-22T15:17:00.000Z
-          - item:
-            name: FIWARE
-            homepage_url: 'https://www.fiware.org'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/fiware-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/fi-ware'
-            crunchbase_data:
-              name: FIWARE
-              description: 'FIWARE seeks to provide a truly open, public and royalty-free architecture and a set of open specifications .'
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'http://www.fiware.org/'
-              city: Berlin
-              region: Berlin
-              country: Germany
-              twitter: 'https://twitter.com/fiware'
-              linkedin: 'https://www.linkedin.com/company/fi-ware'
-              parents: []
-            image_data:
-              fileName: fiware.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-24T11:10:05.000Z
-          - item:
-            name: Fraunhofer
-            homepage_url: 'https://www.iee.fraunhofer.de'
-            logo: fraunhofer.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fraunhofer-gesellschaft'
-            crunchbase_data:
-              name: Fraunhofer-Gesellschaft
-              description: 'Fraunhofer-Gesellschaft is a research company that focuses on health, security, communications, and the environment.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.fraunhofer.de'
-              city: Munich
-              region: Bayern
-              country: Germany
-              twitter: 'http://twitter.com/Fraunhofer'
-              linkedin: 'https://www.linkedin.com/company/fraunhofer-gesellschaft'
-              parents: []
-              kind: funding
-              funding: 1318967
-            image_data:
-              fileName: fraunhofer.svg
-              hash: wKAxmqhx0DaCaBAQY/ghO+XvddMVIIRTYSg+S2cgkoQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-22T13:43:19.000Z
-          - item:
-            name: Freedm Systems Center
-            homepage_url: 'https://www.freedm.ncsu.edu'
-            logo: 'https://ncenergyconference.com/assets/img/sponsor/freedm-systems-center-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/freedm-systems-center'
-            crunchbase_data:
-              name: Freedm Systems Center
-              description: Freedm distributes energy resources that intelligently manages power using secure communications and advanced power electronics
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://www.freedm.ncsu.edu/'
-              city: Raleigh
-              region: North Carolina
-              country: United States
-              twitter: null
-              linkedin: 'https://www.linkedin.com/groups/FREEDM-Systems-Center-3603321/'
-              parents: []
-            image_data:
-              fileName: freedm-systems-center.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Iowa State University
-            homepage_url: 'https://www.iastate.edu/'
-            logo: 'https://cdn.theme.iastate.edu/img/isu-stacked.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/iowa-state-university'
-            crunchbase_data:
-              name: Iowa State University
-              description: 'Iowa State University is a public flagship land-grant and space-grant research university located in Ames, Iowa.'
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'http://www.iastate.edu'
-              city: Ames
-              region: Iowa
-              country: United States
-              twitter: 'https://twitter.com/iowastateu'
-              linkedin: 'https://www.linkedin.com/edu/school?id=50016&trk=edu-cp-title'
-              parents: []
-              kind: funding
-              funding: 250000
-            image_data:
-              fileName: iowa-state-university.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-23T18:45:19.000Z
-          - item:
-            name: Lucerne University of Applied Sciences and Arts
-            homepage_url: 'https://www.hslu.ch/en/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1f/Hochschule_Luzern_Logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/lucerne-university-of-applied-sciences-and-arts'
-            crunchbase_data:
-              name: Lucerne University of Applied Sciences and Arts
-              description: Lucerne University of Applied Sciences and Arts is a university of applied sciences.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'https://www.hslu.ch/'
-              city: Luzern
-              region: Luzern
-              country: Switzerland
-              twitter: 'https://twitter.com/hslu'
-              linkedin: 'https://www.linkedin.com/school/hochschule-luzern/'
-              parents: []
-            image_data:
-              fileName: lucerne-university-of-applied-sciences-and-arts.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-22T15:34:37.000Z
-          - item:
-            name: Monash University
-            homepage_url: 'https://www.monash.edu'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/monash-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/monash-university'
-            crunchbase_data:
-              name: Monash University
-              description: 'Monash University offers undergraduate, graduate, and research courses in the fields of business, social sciences, science, and law.'
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'http://www.monash.edu.au/'
-              city: Clayton
-              region: Victoria
-              country: Australia
-              twitter: 'http://twitter.com/MonashUni'
-              linkedin: 'https://www.linkedin.com/company/monash-university'
-              parents: []
-            image_data:
-              fileName: monash-university.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-23T01:00:33.000Z
-          - item:
-            name: NREL
-            homepage_url: 'https://www.nrel.gov'
-            logo: 'https://www.fcpad.org/images/logo-nrel.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/national-renewable-energy-laboratory'
-            crunchbase_data:
-              name: National Renewable Energy Laboratory
-              description: NREL develops renewable energy and energy efficiency technologies and practices.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'http://www.nrel.gov'
-              city: Golden
-              region: Colorado
-              country: United States
-              twitter: 'http://twitter.com/nrel'
-              linkedin: 'https://www.linkedin.com/company/national-renewable-energy-laboratory'
-              parents: []
-              kind: funding
-              funding: 2800000
-            image_data:
-              fileName: nrel.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-24T02:27:02.000Z
-          - item:
-            name: Project Haystack
-            homepage_url: 'https://project-haystack.org'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/project-haystack-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/project-haystack'
-            crunchbase_data:
-              name: Project Haystack
-              description: Project Haystack is an open source initiative to streamline working with data from the Internet of Things.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://project-haystack.org'
-              city: Glen Allen
-              region: Virginia
-              country: United States
-              twitter: 'https://twitter.com/haystackTagging'
-              linkedin: 'https://www.linkedin.com/company/project-haystack.org/'
-              parents: []
-            image_data:
-              fileName: project-haystack.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-20T16:00:48.000Z
-          - item:
-            name: Stanford University
-            homepage_url: 'https://engineering.stanford.edu'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Stanford_wordmark_%282012%29.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/stanford-university'
-            crunchbase_data:
-              name: Stanford University
-              description: Stanford University is one of the world's leading teaching and research universities.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.stanford.edu'
-              city: Stanford
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/Stanford'
-              linkedin: 'https://www.linkedin.com/company/stanford-university'
-              parents: []
-              kind: funding
-              funding: 5000000
-            image_data:
-              fileName: stanford-university.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-23T22:12:22.000Z
-          - item:
-            name: Tennet
-            homepage_url: 'https://www.tennet.eu/'
-            logo: 'https://euro-drone-inspections.eu/wp-content/uploads/2019/04/Tennet-Logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/tennet'
-            crunchbase_data:
-              name: Tennet
-              description: 'TenneT is a leading European electricity transmission system operator (TSO), with activities in the Netherlands and in Germany.'
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://www.tennet.eu/'
-              city: Arnhem
-              region: Gelderland
-              country: The Netherlands
-              twitter: 'https://twitter.com/tennettso'
-              linkedin: null
-              parents: []
-            image_data:
-              fileName: tennet.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-22T09:31:23.000Z
-          - item:
-            name: The Blog Starter
+            name: The Blog Starter (member)
             homepage_url: 'https://www.theblogstarter.com/'
             logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/the-blog-starter'
@@ -1293,109 +921,11 @@ landscape:
               linkedin: null
               parents: []
             image_data:
-              fileName: the-blog-starter.svg
+              fileName: the-blog-starter-member.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-11-03T01:14:44.000Z
-          - item:
-            name: The Energy Coalition
-            homepage_url: 'https://energycoalition.org'
-            logo: 'https://energycoalition.org/wp-content/uploads/2017/11/tec-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/the-energy-coalition'
-            crunchbase_data:
-              name: The Energy Coalition
-              description: TEC helps create an abundant and healthy world by inspiring others to become energy architects of our sustainable future.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'https://energycoalition.org'
-              city: Irvine
-              region: California
-              country: United States
-              twitter: null
-              linkedin: 'https://www.linkedin.com/company/the-energy-coalition/'
-              parents: []
-            image_data:
-              fileName: the-energy-coalition.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: University of Kassel
-            homepage_url: 'https://www.uni-kassel.de/uni/en/'
-            logo: 'https://www.uni-kassel.de/uni/fileadmin/sys/resources/images/logo/logo-main.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/university-of-kassel'
-            crunchbase_data:
-              name: University of Kassel
-              description: University of Kassel is a school in Kassel.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'http://cms.uni-kassel.de/index.php?id=grp-international'
-              city: Kassel
-              region: Hessen
-              country: Germany
-              twitter: 'https://www.twitter.com/presseunikassel'
-              linkedin: null
-              parents: []
-            image_data:
-              fileName: university-of-kassel.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-21T13:55:47.000Z
-          - item:
-            name: Vanderbilt University
-            homepage_url: 'https://www.vanderbilt.edu'
-            logo: 'https://upload.wikimedia.org/wikipedia/su/f/ff/Vanderbilt_University_wordmark.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/vanderbilt-university'
-            crunchbase_data:
-              name: Vanderbilt University
-              description: Vanderbilt University is a Nashville-based private research university offering various learning programs.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.vanderbilt.edu'
-              city: Nashville
-              region: Tennessee
-              country: United States
-              twitter: 'http://twitter.com/vanderbiltu'
-              linkedin: 'https://www.linkedin.com/company/vanderbilt-university'
-              parents: []
-              kind: funding
-              funding: 28552273
-            image_data:
-              fileName: vanderbilt-university.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-24T07:23:41.000Z
-          - item:
-            name: Washington State University
-            homepage_url: 'https://school.eecs.wsu.edu'
-            logo: 'https://brand.wsu.edu/wp-content/themes/brand/images/pages/logos/wsu-signature-vertical.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/washington-state-university'
-            crunchbase_data:
-              name: Washington State University
-              description: 'Washington State University is a school in Pullman, Washington.'
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://wsu.edu'
-              city: Pullman
-              region: Washington
-              country: United States
-              twitter: 'https://twitter.com/WSUPullman'
-              linkedin: 'https://www.linkedin.com/school/166875/'
-              parents: []
-              kind: funding
-              funding: 10000000
-            image_data:
-              fileName: washington-state-university.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-24T05:59:49.000Z
 twitter_options:
   count: 0
