@@ -45,14 +45,15 @@ relation:
           big_picture_order: 1
           big_picture_label: OpenJSF Growth
           big_picture_color: 'rgb(24,54,114)'
-        - id: at-large
-          label: At-Large
+        - id: sandbox
+          label: Sandbox
           prefix: OpenJS Foundation
-          tag: At-Large
+          tag: Sandbox
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: OpenJSF Sandbox
           big_picture_color: 'rgb(24,54,114)'
+          additional_relation: member
     - id: company
       label: OpenJS Foundation Members
       tag: Company
@@ -171,4 +172,4 @@ big_picture:
 test:
   header: OpenJS Foundation Interactive Landscape
   section: Impact
-  logo: appium.svg
+  logo: node-js.svg
