@@ -3,24 +3,48 @@ landscape:
     name: Projects
     subcategories:
       - subcategory:
-        name: Metering & Compensation
+        name: Impact
         items:
           - item:
-            name: Energy Market Methods Consortium (EM2)
-            description: Reducing the costs of scaling demand-side energy through collaboration
-            homepage_url: 'https://www.energymarketmethods.org'
-            project: growth
-            repo_url: 'https://github.com/energy-market-methods/caltrack'
-            logo: em2.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
+            name: Appium
+            homepage_url: 'https://appium.io/'
+            project: impact
+            repo_url: 'https://github.com/appium/appium'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/appium/appium-logo-stacked-color-flat.svg'
+            twitter: 'https://twitter.com/AppiumDevs'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
-            name: Open EEmeter
-            description: Consistent treatment of energy meter data for demand flexibility
-            homepage_url: 'http://eemeter.openee.io/'
-            project: growth
-            repo_url: 'https://github.com/openeemeter/eemeter'
-            logo: openeemeter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
+            name: Dojo
+            homepage_url: 'https://dojo.io/'
+            project: impact
+            repo_url: 'https://github.com/dojo/framework'
+            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            twitter: 'https://twitter.com/dojo'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: jQuery
+            homepage_url: 'https://jquery.com/'
+            project: impact
+            repo_url: 'https://github.com/jquery/jquery'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/jquery/jquery-logo-stacked-color.svg'
+            twitter: 'https://twitter.com/jquery'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: Node.js
+            homepage_url: 'https://nodejs.org/'
+            project: impact
+            repo_url: 'https://github.com/nodejs/node'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/nodejs/nodejs-logo-color.svg'
+            twitter: 'https://twitter.com/nodejs'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: webpack
+            homepage_url: 'https://webpack.js.org/'
+            project: impact
+            repo_url: 'https://github.com/webpack/webpack'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/webpack/webpack-logo-stacked-color.svg'
+            twitter: 'https://twitter.com/webpack'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
       - subcategory:
         name: Data Management
         items:
@@ -65,7 +89,7 @@ landscape:
             logo: riaps.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
   - category:
-    name: OpenJS Foundation Member Company
+    name: OpenJS Foundation Members
     subcategories:
       - subcategory:
         name: Platinum
@@ -91,47 +115,66 @@ landscape:
             logo: 'https://landscape.lfai.foundation/logos/ibm.svg'
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
       - subcategory:
-        name: General
+        name: Gold
         items:
           - item:
-            name: OSIsoft
-            homepage_url: 'https://www.osisoft.com'
-            logo: 'https://my.osisoft.com/Microsite/images/osisoft-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/osisoft'
+            name: GoDaddy (member)
+            homepage_url: 'https://www.godaddy.com/'
+            logo: 'https://landscape.cncf.io/logos/go-daddy-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/godaddy'
           - item:
-            name: R9b
-            homepage_url: 'https://www.root9b.com'
-            logo: r9b.svg
-            crunchbase: 'https://www.crunchbase.com/organization/root9b'
-          - item:
-            name: Recurve
-            homepage_url: 'https://www.recurve.com'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/logo-recurve.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/recurve'
-          - item:
-            name: Unicorn Systems
-            homepage_url: 'https://unicorn.com'
-            logo: 'http://www.akubat-asociace.cz/wp-content/uploads/2017/08/logo-unicorn.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/unicorn-systems'
+            name: Intel (member)
+            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
+            logo: 'https://landscape.cncf.io/logos/intel-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
       - subcategory:
-        name: Associate
+        name: Silver
         items:
           - item:
-            name: Elering
-            homepage_url: 'https://elering.ee'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/elering-color.svg'
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/elering'
+            name: The Blog Starter (member)
+            homepage_url: 'https://www.theblogstarter.com/'
+            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/the-blog-starter'
           - item:
-            name: Energinet
-            homepage_url: 'https://energinet.dk'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/energinet-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/energinet-dk'
+            name: BrowserStack (member)
+            homepage_url: 'https://www.browserstack.com/'
+            logo: 'https://marker.io/vendor/img/logo/browserstack-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/browserstack'
           - item:
-            name: Energy Foundation
-            homepage_url: 'https://www.ef.org'
-            logo: 'https://www.ef.org/wp-content/themes/energy-foundation/dist/images/ef-dark-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/the-energy-foundation'
+            name: Cloud Grey (member)
+            homepage_url: 'https://cloudgrey.io/'
+            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-grey'
+          - item:
+            name: COIL (member)
+            homepage_url: 'https://coil.com/'
+            logo: coil.svg
+            crunchbase: 'https://www.crunchbase.com/organization/coil-technologies'
+          - item:
+            name: Fidelity Investments (member)
+            homepage_url: 'https://www.fidelity.com/'
+            logo: 'https://landscape.cncf.io/logos/fidelity-investments-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/fidelity-investments'
+          - item:
+            name: Groupon (member)
+            homepage_url: 'https://www.groupon.com/'
+            logo: 'https://customer-stories-feed.github.com/customer_stories/groupon/logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/groupon'
+          - item:
+            name: HackerOne (member)
+            homepage_url: 'https://www.hackerone.com/'
+            logo: 'https://communitybridge.org/wp-content/uploads/2019/03/hackerone-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/hackerone'
+          - item:
+            name: Nearform (member)
+            homepage_url: 'https://www.nearform.com/'
+            logo: nearform.svg
+            crunchbase: 'https://www.crunchbase.com/organization/nearform'
+          - item:
+            name: Nodesource (member)
+            homepage_url: 'https://www.nodesource.com/'
+            logo: 'https://landscape.cncf.io/logos/node-source.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/nodesource'
           - item:
             name: ENTSO-E
             homepage_url: 'https://www.entsoe.eu'

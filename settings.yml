@@ -5,7 +5,7 @@ global:
   website: 'https://openjsf-landscape.netlify.com'
   short_domain: l.openjsf.org
   company_url: 'https://openjsf.org'
-  membership: OpenJS Foundation Member Company
+  membership: OpenJS Foundation Members
   email: info@openjsf.org
   self: 'https://www.crunchbase.com/organization/open-js-foundation'
   slack_channel: T08PSQ7BQ/BQKAV2KDG/ixNxV2AI4q4mG7aYKgwD53C8
@@ -17,7 +17,7 @@ global:
     google_site_verification: M_GmEYdzsEnvJiIcvfj7gmczKsme1N5rd9RwRD35Y98
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   flags:
-    companies: OpenJS Foundation Member Company
+    companies: OpenJS Foundation Members
 twitter:
   search: openjsf-landscape.netlify.com'
   url: 'https://openjsf-landscape.netlify.com'
@@ -29,13 +29,13 @@ relation:
     - id: hosted
       label: OpenJS Foundation Projects
       children:
-        - id: at_large
-          label: At Large
+        - id: impact
+          label: Impact
           prefix: OpenJS Foundation
-          tag: At Large
+          tag: Impact
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: OpenJS Foundation At Large
+          big_picture_label: OpenJSF Impact
           big_picture_color: 'rgb(24,54,114)'
         - id: growth
           label: Growth
@@ -43,7 +43,7 @@ relation:
           tag: Growth
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: OpenJS Foundation Growth
+          big_picture_label: OpenJSF Growth
           big_picture_color: 'rgb(24,54,114)'
         - id: sandbox
           label: Sandbox
@@ -51,7 +51,7 @@ relation:
           tag: Sandbox
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: OpenJS Foundation Sandbox
+          big_picture_label: OpenJSF Sandbox
           big_picture_color: 'rgb(24,54,114)'
           additional_relation: member
     - id: company
@@ -67,17 +67,17 @@ relation:
 membership:
   Platinum:
     name: OpenJS Foundation
-    label: Premier Member
-    funding: Premier
+    label: Platinum
+    funding: Platinum
     is_large: true
-  General:
+  Gold:
     name: OpenJS Foundation
-    label: Member
-    funding: General
-  Associate:
+    label: Gold
+    funding: Gold
+  Silver:
     name: OpenJS Foundation
-    label: Associate
-    funding: Associate
+    label: Silver
+    funding: Silver
   'false':
     funding: 'No'
 home:
@@ -118,7 +118,7 @@ big_picture:
     elements:
       - type: HorizontalCategory
         category: Projects
-        rows: 2
+        rows: 4
         width: 585
         height: 200
         top: 10
@@ -126,7 +126,7 @@ big_picture:
         color: 'rgb(104, 145, 145)'
         fit_width: true
       - type: HorizontalCategory
-        category: OpenJS Foundation Member Company
+        category: OpenJS Foundation Members
         rows: 3
         width: 900
         height: 170

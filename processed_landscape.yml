@@ -4,112 +4,325 @@ landscape:
     name: Projects
     subcategories:
       - subcategory:
-        name: Metering & Compensation
+        name: Impact
         items:
           - item:
-            name: Energy Market Methods Consortium (EM2)
-            description: Reducing the costs of scaling demand-side energy through collaboration
-            homepage_url: 'https://www.energymarketmethods.org'
-            project: growth
-            repo_url: 'https://github.com/energy-market-methods/caltrack'
-            logo: em2.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
+            name: Appium
+            homepage_url: 'https://appium.io/'
+            project: impact
+            repo_url: 'https://github.com/appium/appium'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/appium/appium-logo-stacked-color-flat.svg'
+            twitter: 'https://twitter.com/AppiumDevs'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
-              name: LF Energy
-              description: 'Open Source will speed technological innovation and enable the energy transition, globally.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.lfenergy.org/'
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/LFE_Foundation'
-              linkedin: 'https://www.linkedin.com/company/lf-energy'
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               languages:
-                - name: Dockerfile
-                  value: 286
-                  color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;2;0;9;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2018-12-02Z
-              stars: 23
-              license: Creative Commons Zero v1.0 Universal
-              description: Shared repository for documentation and testing of CalTRACK methods
-              latest_commit_date: '2019-06-28T00:57:10Z'
-              latest_commit_link: /energy-market-methods/caltrack/commit/29e2b155438bf0d560938d07bb542b8c7acdd7c4
-              release_date: '2019-11-14T21:34:37Z'
-              release_link: 'https://github.com/energy-market-methods/caltrack/releases'
-              contributors_count: 15
-              contributors_link: 'https://github.com/energy-market-methods/caltrack/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /energy-market-methods/caltrack/commit/1688277b69d4e3b5c9d4eb8cf780c4e68031ad8e
-              start_date: '2016-08-25T14:53:20Z'
-            image_data:
-              fileName: energy-market-methods-consortium-em2.svg
-              hash: FGdXgrtVLy3aUXud4WovPZ5qDukhp5ttMuh241pdkRw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-22T13:15:16.000Z
-          - item:
-            name: Open EEmeter
-            description: Consistent treatment of energy meter data for demand flexibility
-            homepage_url: 'http://eemeter.openee.io/'
-            project: growth
-            repo_url: 'https://github.com/openeemeter/eemeter'
-            logo: openeemeter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
-            crunchbase_data:
-              name: LF Energy
-              description: 'Open Source will speed technological innovation and enable the energy transition, globally.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.lfenergy.org/'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/LFE_Foundation'
-              linkedin: 'https://www.linkedin.com/company/lf-energy'
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-            github_data:
-              languages:
+                - name: JavaScript
+                  value: 181341
+                  color: '#f1e05a'
+                - name: Java
+                  value: 23550
+                  color: '#b07219'
+                - name: 'C#'
+                  value: 18579
+                  color: '#178600'
                 - name: Python
-                  value: 475037
+                  value: 16112
                   color: '#3572A5'
-                - name: Shell
-                  value: 1054
-                  color: '#89e051'
-                - name: Dockerfile
-                  value: 483
-                  color: '#384d54'
-              contributions: 2;0;8;9;0;7;5;24;0;4;0;0;0;6;16;6;18;1;7;1;7;6;9;3;0;1;4;8;7;0;0;0;0;8;13;0;0;12;0;3;0;0;4;2;6;0;14;0;3;10;0;6
-              firstWeek: 2018-12-02Z
-              stars: 99
+                - name: Ruby
+                  value: 10637
+                  color: '#701516'
+                - name: PHP
+                  value: 10011
+                  color: '#4F5D95'
+              contributions: 9;19;13;1;10;6;13;9;8;3;6;7;5;10;16;21;15;10;16;3;7;6;10;4;12;4;8;5;18;13;7;6;6;4;0;3;7;9;11;11;6;5;6;3;5;3;8;6;4;7;3;4
+              firstWeek: 2018-12-09Z
+              stars: 10549
               license: Apache License 2.0
-              description: >-
-                An open source python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided
-                energy use.
-              latest_commit_date: '2019-11-21T23:33:39Z'
-              latest_commit_link: /openeemeter/eemeter/commit/9946b5d703ad3fb14ea5c3e2d0b145ed97c228cf
-              release_date: '2017-06-30T18:52:07Z'
-              release_link: 'https://github.com/openeemeter/eemeter/releases'
-              contributors_count: 22
-              contributors_link: 'https://github.com/openeemeter/eemeter/graphs/contributors'
+              description: ':iphone: Automation for iOS, Android, and Windows Apps.'
+              latest_commit_date: '2019-11-28T23:55:48Z'
+              latest_commit_link: /appium/appium/commit/673a75c6b497b897bac350b2a13349c256fbf4b0
+              release_date: '2019-10-13T21:15:31Z'
+              release_link: 'https://github.com/appium/appium/releases'
+              contributors_count: 250
+              contributors_link: 'https://github.com/appium/appium/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /openeemeter/eemeter/commit/8492336628c78356b5daa9c692d6b192d148c717
-              start_date: '2014-10-21T17:12:50Z'
+              start_commit_link: /appium/appium/commit/5e5874e66dcb6400af226f5002241774a4b80429
+              start_date: '2013-01-09T22:49:50Z'
             image_data:
-              fileName: open-e-emeter.svg
-              hash: evEq1rvFMIq2Atb+gEblebiYC5lwR22ASHBcDgUt5Cc=
+              fileName: appium.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-22T13:15:16.000Z
+              latest_tweet_date: 2019-11-27T18:37:48.000Z
+          - item:
+            name: Dojo
+            homepage_url: 'https://dojo.io/'
+            project: impact
+            repo_url: 'https://github.com/dojo/framework'
+            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            twitter: 'https://twitter.com/dojo'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 1483158
+                  color: '#2b7489'
+                - name: HTML
+                  value: 6218
+                  color: '#e34c26'
+                - name: JavaScript
+                  value: 2378
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 2208
+                  color: '#563d7c'
+              contributions: 0;13;0;0;0;13;5;5;5;2;16;3;7;3;0;10;1;0;3;0;1;7;0;1;5;9;14;12;1;37;9;7;10;12;18;7;9;12;4;0;13;2;2;2;1;6;7;0;14;6;4;0
+              firstWeek: 2018-12-09Z
+              stars: 247
+              license: Other
+              description: Dojo Framework. A Progressive Framework for Modern Web Apps
+              latest_commit_date: '2019-11-20T17:18:22Z'
+              latest_commit_link: /dojo/framework/commit/0a7bfeb2f1661350adfa9d962d83157b10cdab7b
+              release_date: '2019-09-13T12:14:32Z'
+              release_link: 'https://github.com/dojo/framework/releases'
+              contributors_count: 44
+              contributors_link: 'https://github.com/dojo/framework/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /dojo/framework/commit/762aac48d5ad91d66ab4d77b5b7d7769414a070c
+              start_date: '2015-04-21T21:29:49Z'
+            image_data:
+              fileName: dojo.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T17:24:37.000Z
+          - item:
+            name: jQuery
+            homepage_url: 'https://jquery.com/'
+            project: impact
+            repo_url: 'https://github.com/jquery/jquery'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/jquery/jquery-logo-stacked-color.svg'
+            twitter: 'https://twitter.com/jquery'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 1176600
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 66454
+                  color: '#e34c26'
+                - name: PHP
+                  value: 7764
+                  color: '#4F5D95'
+                - name: CSS
+                  value: 2299
+                  color: '#563d7c'
+              contributions: 1;4;0;0;0;0;2;2;1;0;0;2;0;3;3;2;4;3;3;2;2;9;2;3;0;0;0;0;0;1;0;0;0;0;1;1;1;5;4;0;0;0;4;2;3;2;8;2;0;0;3;1
+              firstWeek: 2018-12-09Z
+              stars: 52660
+              license: MIT License
+              description: jQuery JavaScript Library
+              latest_commit_date: '2019-11-25T19:16:53Z'
+              latest_commit_link: /jquery/jquery/commit/44ac8c8529173711b66046ae5cfefa5bd4892461
+              contributors_count: 278
+              contributors_link: 'https://github.com/jquery/jquery/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /jquery/jquery/commit/8a4a1edf047f2c272f663866eb7b5fcd644d65b3
+              start_date: '2006-03-22T03:33:07Z'
+            image_data:
+              fileName: j-query.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-05-01T21:35:34.000Z
+          - item:
+            name: Node.js
+            homepage_url: 'https://nodejs.org/'
+            project: impact
+            repo_url: 'https://github.com/nodejs/node'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/nodejs/nodejs-logo-color.svg'
+            twitter: 'https://twitter.com/nodejs'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 8055011
+                  color: '#f1e05a'
+                - name: C++
+                  value: 4565133
+                  color: '#f34b7d'
+                - name: Python
+                  value: 2151513
+                  color: '#3572A5'
+                - name: C
+                  value: 443312
+                  color: '#555555'
+                - name: HTML
+                  value: 163390
+                  color: '#e34c26'
+                - name: Makefile
+                  value: 47219
+                  color: '#427819'
+                - name: Batchfile
+                  value: 39012
+                  color: '#C1F12E'
+                - name: DTrace
+                  value: 37661
+                - name: Shell
+                  value: 30970
+                  color: '#89e051'
+                - name: Emacs Lisp
+                  value: 14357
+                  color: '#c065db'
+                - name: Perl
+                  value: 11658
+                  color: '#0298c3'
+                - name: Roff
+                  value: 10445
+                  color: '#ecdebe'
+                - name: R
+                  value: 6895
+                  color: '#198CE7'
+              contributions: >-
+                92;84;93;67;49;76;74;92;139;78;99;101;92;117;113;147;133;77;51;82;70;79;52;76;91;116;85;56;126;49;58;45;46;44;36;55;56;52;46;47;37;49;54;50;49;46;54;48;67;92;59;50
+              firstWeek: 2018-12-09Z
+              stars: 66119
+              license: Other
+              description: 'Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:'
+              latest_commit_date: '2019-12-01T01:22:44Z'
+              latest_commit_link: /nodejs/node/commit/7da6630aa4a3ba7f866be3af83ccd812102c281b
+              release_date: '2019-11-22T08:11:36Z'
+              release_link: 'https://github.com/nodejs/node/releases'
+              contributors_count: 2615
+              contributors_link: 'https://github.com/nodejs/node/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /nodejs/node/commit/9d7895c567e8f38abfff35da1b6d6d6a0a06f9aa
+              start_date: '2009-02-16T00:02:00Z'
+            image_data:
+              fileName: node-js.svg
+            best_practice_data:
+              badge: 29
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2019-11-29T16:17:52.000Z
+          - item:
+            name: webpack
+            homepage_url: 'https://webpack.js.org/'
+            project: impact
+            repo_url: 'https://github.com/webpack/webpack'
+            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/webpack/webpack-logo-stacked-color.svg'
+            twitter: 'https://twitter.com/webpack'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 2754329
+                  color: '#f1e05a'
+                - name: WebAssembly
+                  value: 5423
+                  color: '#04133b'
+                - name: CSS
+                  value: 765
+                  color: '#563d7c'
+                - name: HTML
+                  value: 237
+                  color: '#e34c26'
+                - name: CoffeeScript
+                  value: 91
+                  color: '#244776'
+              contributions: >-
+                61;25;50;53;40;30;35;26;16;107;25;38;25;3;32;27;13;20;30;4;10;4;42;33;55;17;39;56;40;12;34;48;54;81;42;75;51;45;24;24;47;5;36;22;67;79;58;61;59;58;52;30
+              firstWeek: 2018-12-09Z
+              stars: 52026
+              license: MIT License
+              description: >-
+                A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application
+                on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+              latest_commit_date: '2019-12-01T11:01:40Z'
+              latest_commit_link: /webpack/webpack/commit/aea30c3a1ef01f511150aee1c26dc65eb5fe239b
+              release_date: '2019-11-20T21:53:01Z'
+              release_link: 'https://github.com/webpack/webpack/releases'
+              contributors_count: 567
+              contributors_link: 'https://github.com/webpack/webpack/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /webpack/webpack/commit/2e1460036c5349951da86c582006c7787c56c543
+              start_date: '2012-03-10T12:11:23Z'
+            image_data:
+              fileName: webpack.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-12-01T11:25:42.000Z
       - subcategory:
         name: Data Management
         items:
@@ -342,7 +555,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-11-22T13:15:16.000Z
   - category:
-    name: OpenJS Foundation Member Company
+    name: OpenJS Foundation Members
     subcategories:
       - subcategory:
         name: Platinum
@@ -462,185 +675,301 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-11-22T19:00:49.000Z
       - subcategory:
-        name: General
+        name: Gold
         items:
           - item:
-            name: OSIsoft
-            homepage_url: 'https://www.osisoft.com'
-            logo: 'https://my.osisoft.com/Microsite/images/osisoft-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/osisoft'
+            name: GoDaddy (member)
+            homepage_url: 'https://www.godaddy.com/'
+            logo: 'https://landscape.cncf.io/logos/go-daddy-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/godaddy'
             crunchbase_data:
-              name: OSIsoft
-              description: OSIsoft is a manufacturer of application software for real-time data infrastructure solutions.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: 'http://www.osisoft.com'
-              city: San Leandro
+              name: GoDaddy
+              description: GoDaddy is an internet domain registrar and web hosting company facilitating online businesses.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://godaddy.com'
+              city: Scottsdale
+              region: Arizona
+              country: United States
+              twitter: 'http://twitter.com/GoDaddy'
+              linkedin: 'https://www.linkedin.com/company/godaddy'
+              parents: []
+              ticker: GDDY
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 11435414528
+              effective_ticker: GDDY
+            image_data:
+              fileName: go-daddy-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-27T19:22:42.000Z
+          - item:
+            name: Intel (member)
+            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
+            logo: 'https://landscape.cncf.io/logos/intel-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+            crunchbase_data:
+              name: Intel
+              description: 'Intel designs, manufactures, and sells integrated digital technology platforms worldwide.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.intel.com/'
+              city: Santa Clara
               region: California
               country: United States
-              twitter: 'http://twitter.com/OSIsoft'
-              linkedin: 'https://www.linkedin.com/company/osisoft'
+              twitter: 'http://twitter.com/intel'
+              linkedin: 'https://www.linkedin.com/company/intel-corporation'
               parents: []
-              kind: funding
-              funding: 139500000
+              ticker: INTC
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 252517498880
+              effective_ticker: INTC
             image_data:
-              fileName: os-isoft.svg
+              fileName: intel-member.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-22T23:00:54.000Z
-          - item:
-            name: R9b
-            homepage_url: 'https://www.root9b.com'
-            logo: r9b.svg
-            crunchbase: 'https://www.crunchbase.com/organization/root9b'
-            crunchbase_data:
-              name: root9B
-              description: 'Root9B Holdings, a provider of cybersecurity services'
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'https://www.root9b.com/'
-              city: Colorado Springs
-              region: Colorado
-              country: United States
-              twitter: 'https://www.twitter.com/root9b'
-              linkedin: 'https://www.linkedin.com/company/3044818'
-              parents: []
-              kind: funding
-              funding: 2250000
-            image_data:
-              fileName: r9b.svg
-              hash: qin6cKZ7qoBhqCF/vqjMJnaT4xjuii9WklgSpEQq4Z4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-22T14:08:40.000Z
-          - item:
-            name: Recurve
-            homepage_url: 'https://www.recurve.com'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/logo-recurve.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/recurve'
-            crunchbase_data:
-              name: Recurve
-              description: Recurve develops software for contractors who audit homes to increase energy efficiency and perform construction services.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'http://www.recurve.com'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/recurveus'
-              linkedin: 'https://www.linkedin.com/company/recurve-inc.'
-              parents: []
-              kind: funding
-              funding: 14000000
-            image_data:
-              fileName: recurve.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2011-11-03T17:40:30.000Z
-          - item:
-            name: Unicorn Systems
-            homepage_url: 'https://unicorn.com'
-            logo: 'http://www.akubat-asociace.cz/wp-content/uploads/2017/08/logo-unicorn.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/unicorn-systems'
-            crunchbase_data:
-              name: Unicorn Systems
-              description: Unicorn Systems is a renowned European company providing the largest information systems.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: 'http://unicorn.eu/'
-              city: Prague
-              region: Hlavni mesto Praha
-              country: Czech Republic
-              twitter: 'https://twitter.com/Unicorn_Systems'
-              linkedin: 'https://www.linkedin.com/company/unicorn'
-              parents: []
-            image_data:
-              fileName: unicorn-systems.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-21T08:04:04.000Z
+              latest_tweet_date: 2019-12-01T06:08:53.000Z
       - subcategory:
-        name: Associate
+        name: Silver
         items:
           - item:
-            name: Elering
-            homepage_url: 'https://elering.ee'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/elering-color.svg'
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/elering'
+            name: The Blog Starter (member)
+            homepage_url: 'https://www.theblogstarter.com/'
+            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/the-blog-starter'
             crunchbase_data:
-              name: Elering
-              description: Elering is an independent and independent electricity and gas system operator.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'http://vana.elering.ee/'
-              city: Tallinn
-              region: Harjumaa
-              country: Estonia
-              twitter: null
+              name: The Blog Starter
+              description: 'a free, easy, step-by-step guide on how to start a blog'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.theblogstarter.com/'
+              city: Chicago
+              region: Illinois
+              country: United States
+              twitter: 'https://twitter.com/BlogChow'
               linkedin: null
               parents: []
             image_data:
-              fileName: elering.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Energinet
-            homepage_url: 'https://energinet.dk'
-            logo: 'https://www.lfenergy.org/wp-content/uploads/sites/67/2019/05/energinet-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/energinet-dk'
-            crunchbase_data:
-              name: Energinet
-              description: Energinet.dk is the Danish national transmission system operator for electricity and natural gas.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: 'http://www.energinet.dk'
-              city: Fredericia
-              region: Syddanmark
-              country: Denmark
-              twitter: 'https://www.twitter.com/energinetdk'
-              linkedin: null
-              parents: []
-            image_data:
-              fileName: energinet.svg
+              fileName: the-blog-starter-member.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-18T15:22:45.000Z
+              latest_tweet_date: 2019-11-03T01:14:44.000Z
           - item:
-            name: Energy Foundation
-            homepage_url: 'https://www.ef.org'
-            logo: 'https://www.ef.org/wp-content/themes/energy-foundation/dist/images/ef-dark-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/the-energy-foundation'
+            name: BrowserStack (member)
+            homepage_url: 'https://www.browserstack.com/'
+            logo: 'https://marker.io/vendor/img/logo/browserstack-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/browserstack'
             crunchbase_data:
-              name: The Energy Foundation
-              description: The Energy Foundation is a company that promotes clean technology.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'http://www.ef.org'
+              name: BrowserStack
+              description: BrowserStack is the most reliable web and mobile app testing platform on the market.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'http://www.browserstack.com/'
+              city: Mumbai
+              region: Maharashtra
+              country: India
+              twitter: 'http://twitter.com/browserstack'
+              linkedin: 'https://www.linkedin.com/company/2553488/'
+              parents: []
+              kind: funding
+              funding: 50000000
+            image_data:
+              fileName: browser-stack-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-27T16:23:09.000Z
+          - item:
+            name: Cloud Grey (member)
+            homepage_url: 'https://cloudgrey.io/'
+            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-grey'
+            crunchbase_data:
+              name: Cloud Grey
+              description: Achieve mobile testing greatness with Cloud Grey
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://cloudgrey.io/'
+              city: Vancouver
+              region: British Columbia
+              country: Canada
+              twitter: 'https://twitter.com/cloudgrey_io'
+              linkedin: null
+              parents: []
+            image_data:
+              fileName: cloud-grey-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-10T21:15:00.000Z
+          - item:
+            name: COIL (member)
+            homepage_url: 'https://coil.com/'
+            logo: coil.svg
+            crunchbase: 'https://www.crunchbase.com/organization/coil-technologies'
+            crunchbase_data:
+              name: Coil
+              description: 'Web, Content, Monetization'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://coil.com/'
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://www.twitter.com/energyfdn'
-              linkedin: null
+              twitter: 'https://twitter.com/coil'
+              linkedin: 'https://linkedin.com/company/coilhq'
               parents: []
+              kind: funding
+              funding: 269000000
             image_data:
-              fileName: energy-foundation.svg
+              fileName: coil-member.svg
+              hash: 6tcAMiYlZ4yk5GPI/sduucKWIv6zy+8it1Ru14ArWCk=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-24T04:35:35.000Z
+              latest_tweet_date: 2019-11-22T15:33:03.000Z
+          - item:
+            name: Fidelity Investments (member)
+            homepage_url: 'https://www.fidelity.com/'
+            logo: 'https://landscape.cncf.io/logos/fidelity-investments-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/fidelity-investments'
+            crunchbase_data:
+              name: Fidelity
+              description: Fidelity is a privately owned investment manager.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.fidelity.com/'
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/Fidelity'
+              linkedin: 'https://www.linkedin.com/company/fidelity-investments/'
+              parents: []
+            image_data:
+              fileName: fidelity-investments-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-12-01T00:19:04.000Z
+          - item:
+            name: Groupon (member)
+            homepage_url: 'https://www.groupon.com/'
+            logo: 'https://customer-stories-feed.github.com/customer_stories/groupon/logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/groupon'
+            crunchbase_data:
+              name: Groupon
+              description: Groupon is a deal-of-the-day website that offers discounted gift certificates usable at local or national companies.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://www.groupon.com'
+              city: Chicago
+              region: Illinois
+              country: United States
+              twitter: 'http://twitter.com/groupon'
+              linkedin: 'https://www.linkedin.com/company/groupon'
+              parents: []
+              ticker: GRPN
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 1637728640
+              effective_ticker: GRPN
+            image_data:
+              fileName: groupon-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-27T14:35:04.000Z
+          - item:
+            name: HackerOne (member)
+            homepage_url: 'https://www.hackerone.com/'
+            logo: 'https://communitybridge.org/wp-content/uploads/2019/03/hackerone-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/hackerone'
+            crunchbase_data:
+              name: HackerOne
+              description: HackerOne is a powered security platform that connects businesses with penetration testers and cybersecurity researchers.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'https://hackerone.com/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/hacker0x01'
+              linkedin: 'https://www.linkedin.com/company/hackerone'
+              parents: []
+              kind: funding
+              funding: 110400000
+            image_data:
+              fileName: hacker-one-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-27T15:46:01.000Z
+          - item:
+            name: Nearform (member)
+            homepage_url: 'https://www.nearform.com/'
+            logo: nearform.svg
+            crunchbase: 'https://www.crunchbase.com/organization/nearform'
+            crunchbase_data:
+              name: NearForm
+              description: 'NearForm is a software platform that delivers consulting, co-development, products, training and support for large enterprises.'
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://www.nearform.com'
+              city: Waterford
+              region: Waterford
+              country: Ireland
+              twitter: 'http://twitter.com/nearform'
+              linkedin: 'https://www.linkedin.com/company/nearform'
+              parents: []
+            image_data:
+              fileName: nearform-member.svg
+              hash: eh6dHUYMp24Br/rlJzI5hhxxkKKOobzpi4WfwAEC9X8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T08:33:39.000Z
+          - item:
+            name: Nodesource (member)
+            homepage_url: 'https://www.nodesource.com/'
+            logo: 'https://landscape.cncf.io/logos/node-source.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/nodesource'
+            crunchbase_data:
+              name: NodeSource
+              description: Building products focused on Node.js security and performance for the Enterprise.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://nodesource.com/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/nodesource'
+              linkedin: 'https://www.linkedin.com/company/nodesource'
+              parents:
+                - 'https://www.crunchbase.com/organization/heavybit-industries'
+              kind: funding
+              funding: 33400000
+            image_data:
+              fileName: nodesource-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-29T20:35:22.000Z
           - item:
             name: ENTSO-E
             homepage_url: 'https://www.entsoe.eu'
