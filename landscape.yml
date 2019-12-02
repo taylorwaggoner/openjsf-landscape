@@ -208,7 +208,7 @@ landscape:
         name: Incubating
         items:
           - item:
-            name: Amp
+            name: AMP
             homepage_url: 'https://amp.dev/'
             project: incubating
             repo_url: 'https://github.com/ampproject/amphtml'
