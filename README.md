@@ -22,6 +22,20 @@
 
 This OpenJS Foundation Landscape is a living document that developers, vendors, end users and others can use as a resource to better understand the OpenJSF ecosystem of projects and members. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code. 
 
+## Next Steps
+
+We've created a draft landscape for OpenJSF at https://openjsf-landscape.netlify.com/. As promised, we've made a number of [changes](https://github.com/cncf/landscapeapp/commit/6d22f31244670a5b2e48bf628485c710ab1ab05f) to improve accessibility and we now [pass] the automated checks.
+
+Note that for several logos, we added the name underneath when the logo did not include the project name. This is necessary for the [static](https://openjsf-landscape.netlify.com/images/landscape.png) version of the landscape to be useful, as people need enough information to be able to do a web search. The existing 10 landscapes all require that the logo include the name and we recommend that OpenJSF follow the same policy.
+
+The OpenJSF Landscape now includes all projects and members and could be used without additional modifications. For example, the [members page](https://openjsf.org/about/members/) of the website could include an [embed](https://openjsf-landscape.netlify.com/category=open-js-foundation-members&format=logo-mode&grouping=category&embed=yes) of the member category of the landscape.
+
+The projects on the landscape are currently categorized by the maturity state. This is redundant since the box around each project shows its state. It would be more helpful for users if the projects were instead categorized based on taxonomy, such as frameworks, build tools, infrastructure, etc. Other landscapes such as the [motion picture](https://landscape.aswf.io/) and [AI](https://landscape.lfai.foundation/) have built taxonomies that have proven quite useful. This would, of course, require some technical judgment to create the taxonomy.
+
+Another decision is whether to allow non-OpenJSF projects to be shown. CNCF's [cloud native landscape](https://landscape.cncf.io/) shows both open and closed projects, with closed source in grey. The [motion picture](https://landscape.aswf.io/) and [AI](https://landscape.lfai.foundation/) landscapes only show open source projects (plus their members). [LF Energy](https://landscape.lfenergy.org/) only shows projects they host (and their members).
+
+If you do decide to allow non-OpenJSF projects on the landscape, I would recommend having a very high bar for projects to be listed, given how many JavaScript projects there are, and the futility of trying to show more than a few hundred. For example, this [search](https://github.com/search?l=&p=1&q=stars%3A%3E25000+language%3AJavaScript&ref=advsearch&type=Repositories&utf8=%E2%9C%93) shows the 82 JavaScript projects on GitHub with more than 25k stars. By contrast, CNCF only requires 300 stars. Starting with a high bar would allow you to list other important projects like React, Vue.js, and Angular without having the landscape overwhelmed with the hundreds of thousands of possible projects.
+
 ## Current Version
 
 [![OpenJS Foundation Landscape](https://openjsf-landscape.netlify.com/images/landscape.png)](https://openjsf-landscape.netlify.com/images/landscape.png)
