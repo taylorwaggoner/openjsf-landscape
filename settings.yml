@@ -171,7 +171,7 @@ big_picture:
             left: 10
             width: 90
             height: 90
-            title: 'QR Code'
+            title: QR Code
           - type: title
             title: l.openjsf.org
             top: 150
@@ -182,13 +182,13 @@ big_picture:
             width: 110
             right: 160
             top: 10
-            title: 'Landscape Logo'
+            title: Landscape Logo
           - type: image
             image: right-logo.svg
             width: 109
             right: 25
             top: 10
-            title: 'OpenJSF Logo'
+            title: OpenJSF Logo
 test:
   header: OpenJS Foundation Interactive Landscape
   section: Impact

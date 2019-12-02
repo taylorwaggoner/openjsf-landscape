@@ -541,7 +541,7 @@ landscape:
             homepage_url: 'https://webdriver.io/'
             project: growth
             repo_url: 'https://github.com/webdriverio/webdriverio'
-            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/webdriverio/webdriverio-icon-color.svg'
+            logo: webdriverio.svg
             twitter: 'https://twitter.com/webdriverio'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
@@ -594,6 +594,7 @@ landscape:
               start_date: '2017-12-02T19:39:52Z'
             image_data:
               fileName: webdriver-io.svg
+              hash: LSHvzcWM6yZ/WUeW2knwCrJd3mxTBcrqXwalxhe7jkw=
             best_practice_data:
               badge: false
               percentage: null
@@ -720,7 +721,7 @@ landscape:
             homepage_url: 'https://esprima.org/'
             project: at-large
             repo_url: 'https://github.com/jquery/esprima'
-            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/esprima/esprima-icon-color.svg'
+            logo: esprima.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -760,6 +761,7 @@ landscape:
               start_date: '2011-11-23T02:29:59Z'
             image_data:
               fileName: esprima.svg
+              hash: euPa6tBicvl6PQeXp9RayYGQoPlJflVbQuTU3cyIxH4=
             best_practice_data:
               badge: false
               percentage: null
@@ -977,7 +979,7 @@ landscape:
             homepage_url: 'https://interledger.org/'
             project: at-large
             repo_url: 'https://github.com/interledger/rfcs'
-            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/interledgerjs/interledgerjs-icon-color.svg'
+            logo: interledger.svg
             twitter: 'https://twitter.com/interledger'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
@@ -1018,6 +1020,7 @@ landscape:
               start_date: '2015-08-31T23:16:03Z'
             image_data:
               fileName: interledger.svg
+              hash: oH76QTccRrZ2HbpsxjUiK3r+xUg6chmlBSLHI+r7I9I=
             best_practice_data:
               badge: false
               percentage: null
@@ -1090,7 +1093,7 @@ landscape:
               start_date: '2014-07-01T11:51:35Z'
             image_data:
               fileName: jerryscript.svg
-              hash: 0vA6YJunHm1aA3GFMKoO+Pe5i8fPfmpJJw683x7sE58=
+              hash: 7z+dD+2fvPlynxoAs2U2mpREeX3xME7DPXIaQAOg+us=
             best_practice_data:
               badge: false
               percentage: null
@@ -1164,7 +1167,7 @@ landscape:
             homepage_url: 'https://lodash.com/'
             project: at-large
             repo_url: 'https://github.com/lodash/lodash'
-            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/lodash/lodash-icon-color.svg'
+            logo: lodash.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -1200,6 +1203,7 @@ landscape:
               start_date: '2009-10-25T18:36:12Z'
             image_data:
               fileName: lodash.svg
+              hash: lIZFWfF8T2239y9PfMYjxdzlloJ2d79bE91SZFoEgp4=
             best_practice_data:
               badge: false
               percentage: null
@@ -1315,7 +1319,7 @@ landscape:
             homepage_url: 'https://momentjs.com/'
             project: at-large
             repo_url: 'https://github.com/moment/moment'
-            logo: 'https://www.brandeps.com/logo-download/M/Moment-JS-logo-vector-01.svg'
+            logo: moment-js.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -1355,6 +1359,7 @@ landscape:
               start_date: '2011-03-01T02:53:16Z'
             image_data:
               fileName: moment-js.svg
+              hash: Hffn+Sdz9wZ/v031VMPZjjTo6+1FTmws5nncEzx7brI=
             best_practice_data:
               badge: false
               percentage: null
@@ -1469,7 +1474,7 @@ landscape:
             homepage_url: 'https://amp.dev/'
             project: incubating
             repo_url: 'https://github.com/ampproject/amphtml'
-            logo: 'https://symbols.getvecta.com/stencil_73/103_amp-official.d2c07cab72.svg'
+            logo: amp.svg
             twitter: 'https://twitter.com/AMPhtml'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
@@ -1528,6 +1533,7 @@ landscape:
               start_date: '2015-09-02T23:03:45Z'
             image_data:
               fileName: amp.svg
+              hash: R6d84ZBcekVHdCmS4XnAzVeibzYDLCdcuFeIL9x42xk=
             best_practice_data:
               badge: false
               percentage: null
@@ -1583,7 +1589,7 @@ landscape:
               start_date: '2010-04-15T16:13:33Z'
             image_data:
               fileName: nvm.svg
-              hash: xIFs+YY+TdxVOne4ZUCmsFiEOYCYe1lKfqfPOBzf0SY=
+              hash: H6o5czwuLS/xeWhqj+bMrFsitGvmhQOaPrcn6kDTdwA=
             best_practice_data:
               badge: false
               percentage: null
@@ -1845,7 +1851,7 @@ landscape:
               start_date: '2008-08-24T20:39:53Z'
             image_data:
               fileName: sizzle.svg
-              hash: bIBAbZWZ6kYrz1E9oFlTcVRqrTsubc8bxezadF8X00E=
+              hash: 8xprvVAxFQdAyNfEtUlSz6gnhLr1i3LN7uj56kks0NY=
             best_practice_data:
               badge: false
               percentage: null
@@ -2064,7 +2070,7 @@ landscape:
           - item:
             name: Cloud Grey (member)
             homepage_url: 'https://cloudgrey.io/'
-            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            logo: cloudgrey.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloud-grey'
             crunchbase_data:
               name: Cloud Grey
@@ -2080,6 +2086,7 @@ landscape:
               parents: []
             image_data:
               fileName: cloud-grey-member.svg
+              hash: H6Nrw8VQcFnR5dVzpur8yppTuYBOZTccN9VaG0zR2KQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -2298,7 +2305,7 @@ landscape:
           - item:
             name: Profound Logic (member)
             homepage_url: 'https://www.profoundlogic.com/'
-            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            logo: profoundlogic.svg
             crunchbase: 'https://www.crunchbase.com/organization/profound-logic'
             crunchbase_data:
               name: Profound Logic
@@ -2314,6 +2321,7 @@ landscape:
               parents: []
             image_data:
               fileName: profound-logic-member.svg
+              hash: 4gUbbTDSubW09VNxXHF9VnbCrGIVG6BGLn3vKK/cFmc=
             best_practice_data:
               badge: false
               percentage: null
@@ -2482,7 +2490,7 @@ landscape:
           - item:
             name: The Blog Starter (member)
             homepage_url: 'https://www.theblogstarter.com/'
-            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            logo: the-blog-starter.svg
             crunchbase: 'https://www.crunchbase.com/organization/the-blog-starter'
             crunchbase_data:
               name: The Blog Starter
@@ -2498,6 +2506,7 @@ landscape:
               parents: []
             image_data:
               fileName: the-blog-starter-member.svg
+              hash: s4jALHIZy77zgUWmN4a9dvGLgoq5IVOoS0O+IFiyPW8=
             best_practice_data:
               badge: false
               percentage: null

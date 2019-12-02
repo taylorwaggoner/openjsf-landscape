@@ -82,7 +82,7 @@ landscape:
             homepage_url: 'https://webdriver.io/'
             project: growth
             repo_url: 'https://github.com/webdriverio/webdriverio'
-            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/webdriverio/webdriverio-icon-color.svg'
+            logo: webdriverio.svg
             twitter: 'https://twitter.com/webdriverio'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
@@ -109,7 +109,7 @@ landscape:
             homepage_url: 'https://esprima.org/'
             project: at-large
             repo_url: 'https://github.com/jquery/esprima'
-            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/esprima/esprima-icon-color.svg'
+            logo: esprima.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Express
@@ -145,7 +145,7 @@ landscape:
             homepage_url: 'https://interledger.org/'
             project: at-large
             repo_url: 'https://github.com/interledger/rfcs'
-            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/interledgerjs/interledgerjs-icon-color.svg'
+            logo: interledger.svg
             twitter: 'https://twitter.com/interledger'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
@@ -167,7 +167,7 @@ landscape:
             homepage_url: 'https://lodash.com/'
             project: at-large
             repo_url: 'https://github.com/lodash/lodash'
-            logo: 'https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/lodash/lodash-icon-color.svg'
+            logo: lodash.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Marko
@@ -188,7 +188,7 @@ landscape:
             homepage_url: 'https://momentjs.com/'
             project: at-large
             repo_url: 'https://github.com/moment/moment'
-            logo: 'https://www.brandeps.com/logo-download/M/Moment-JS-logo-vector-01.svg'
+            logo: moment-js.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: PEP
@@ -212,7 +212,7 @@ landscape:
             homepage_url: 'https://amp.dev/'
             project: incubating
             repo_url: 'https://github.com/ampproject/amphtml'
-            logo: 'https://symbols.getvecta.com/stencil_73/103_amp-official.d2c07cab72.svg'
+            logo: amp.svg
             twitter: 'https://twitter.com/AMPhtml'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
@@ -310,7 +310,7 @@ landscape:
           - item:
             name: Cloud Grey (member)
             homepage_url: 'https://cloudgrey.io/'
-            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            logo: cloudgrey.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloud-grey'
           - item:
             name: COIL (member)
@@ -355,7 +355,7 @@ landscape:
           - item:
             name: Profound Logic (member)
             homepage_url: 'https://www.profoundlogic.com/'
-            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            logo: profoundlogic.svg
             crunchbase: 'https://www.crunchbase.com/organization/profound-logic'
           - item:
             name: Red Hat (member)
@@ -391,7 +391,7 @@ landscape:
           - item:
             name: The Blog Starter (member)
             homepage_url: 'https://www.theblogstarter.com/'
-            logo: 'https://openjsf-landscape.netlify.com/images/left-logo.svg'
+            logo: the-blog-starter.svg
             crunchbase: 'https://www.crunchbase.com/organization/the-blog-starter'
           - item:
             name: Vincit (member)
