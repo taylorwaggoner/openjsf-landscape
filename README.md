@@ -20,11 +20,11 @@
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
-This OpenJS Foundation Landscape is a living document that developers, vendors, end users and others can use as a resource to better understand the OpenJSF ecosystem of projects and members. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code. 
+This OpenJS Foundation Landscape is a living document that developers, vendors, end users and others can use as a resource to better understand the OpenJSF ecosystem of projects and members. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
 
 ## Next Steps
 
-We've created a draft landscape for OpenJSF at https://openjsf-landscape.netlify.com/. As promised, we've made a number of [changes](https://github.com/cncf/landscapeapp/commit/6d22f31244670a5b2e48bf628485c710ab1ab05f) to improve accessibility and we now [pass] the automated checks.
+We've created a draft landscape for OpenJSF at https://openjsf-landscape.netlify.com/. As promised, we've made a number of [changes](https://github.com/cncf/landscapeapp/commit/6d22f31244670a5b2e48bf628485c710ab1ab05f) to improve accessibility and we now [pass](https://webhint.io/scanner/e5ad8c91-aaaf-47f1-a55b-99e84e772794) the automated checks.
 
 Note that for several logos, we added the name underneath when the logo did not include the project name. This is necessary for the [static](https://openjsf-landscape.netlify.com/images/landscape.png) version of the landscape to be useful, as people need enough information to be able to do a web search. The existing 10 landscapes all require that the logo include the name and we recommend that OpenJSF follow the same policy.
 
