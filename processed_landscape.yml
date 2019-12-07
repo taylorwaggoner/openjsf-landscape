@@ -47,7 +47,7 @@ landscape:
                 - name: PHP
                   value: 10011
                   color: '#4F5D95'
-              contributions: 18;13;5;5;11;6;16;4;7;6;4;6;8;18;20;17;8;12;10;6;6;7;8;11;4;8;4;16;17;5;6;7;5;0;2;5;12;10;5;10;7;5;5;5;3;6;4;7;7;3;5;1
+              contributions: 18;15;1;8;8;8;14;8;3;6;6;5;9;17;20;17;10;15;4;6;6;11;4;12;4;7;6;17;14;6;7;6;4;0;3;7;9;10;5;13;4;7;3;5;3;7;5;5;8;3;4;1
               firstWeek: 2018-12-09Z
               stars: 10577
               license: Apache License 2.0
@@ -103,9 +103,9 @@ landscape:
                 - name: CSS
                   value: 2208
                   color: '#563d7c'
-              contributions: 7;6;0;0;13;5;5;5;2;14;5;7;2;1;4;6;1;2;1;1;4;3;0;5;8;12;9;8;27;19;5;12;10;18;6;5;16;7;0;11;3;3;2;0;3;11;0;13;7;4;0;1
+              contributions: 13;0;0;0;13;5;5;5;2;16;3;7;3;0;10;1;0;3;0;1;7;0;1;5;9;14;12;1;35;11;5;12;12;18;7;9;12;4;0;13;2;2;2;1;6;7;0;14;6;4;0;1
               firstWeek: 2018-12-09Z
-              stars: 248
+              stars: 250
               license: Other
               description: Dojo Framework. A Progressive Framework for Modern Web Apps
               latest_commit_date: '2019-12-03T13:56:26Z'
@@ -123,7 +123,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-29T17:24:37.000Z
+              latest_tweet_date: 2019-12-06T20:55:26.000Z
           - item:
             name: jQuery
             homepage_url: 'https://jquery.com/'
@@ -159,9 +159,9 @@ landscape:
                 - name: CSS
                   value: 2299
                   color: '#563d7c'
-              contributions: 3;1;0;0;0;2;2;1;0;0;2;0;3;3;2;4;3;3;2;1;10;2;3;0;0;0;0;0;1;0;0;0;0;1;0;2;5;3;1;0;0;4;0;5;2;8;2;0;0;3;1;2
+              contributions: 4;0;0;0;0;2;2;1;0;0;2;0;3;3;2;4;3;3;2;2;9;2;3;0;0;0;0;0;1;0;0;0;0;1;1;1;5;4;0;0;0;4;1;4;2;8;2;0;0;3;1;2
               firstWeek: 2018-12-09Z
-              stars: 52675
+              stars: 52678
               license: MIT License
               description: jQuery JavaScript Library
               latest_commit_date: '2019-12-03T11:35:48Z'
@@ -202,10 +202,10 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 8090719
+                  value: 8100223
                   color: '#f1e05a'
                 - name: C++
-                  value: 4567036
+                  value: 4567405
                   color: '#f34b7d'
                 - name: Python
                   value: 2145656
@@ -225,7 +225,7 @@ landscape:
                 - name: DTrace
                   value: 37661
                 - name: Shell
-                  value: 30970
+                  value: 31037
                   color: '#89e051'
                 - name: Emacs Lisp
                   value: 14357
@@ -240,16 +240,16 @@ landscape:
                   value: 6895
                   color: '#198CE7'
               contributions: >-
-                81;88;62;66;73;65;92;129;95;83;108;83;118;108;157;119;104;57;75;76;80;52;64;101;118;80;55;102;84;41;61;39;49;37;48;51;61;49;44;37;45;57;61;47;39;54;46;74;103;48;78;44
+                80;95;62;60;70;73;94;135;84;93;100;87;123;109;153;119;95;49;85;70;77;52;76;93;115;86;55;122;59;46;54;41;49;37;48;54;54;52;48;36;50;54;59;49;44;49;45;77;98;59;76;42
               firstWeek: 2018-12-09Z
-              stars: 66246
+              stars: 66280
               license: Other
               description: 'Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:'
-              latest_commit_date: '2019-09-05T16:46:57Z'
-              latest_commit_link: /nodejs/node/commit/eea5bb4160517f84e9673e685f0b2494214b95de
+              latest_commit_date: '2019-12-06T03:52:51Z'
+              latest_commit_link: /nodejs/node/commit/cf5ce2c9e1aab5eadbae107c697fdd11c6fb93a9
               release_date: '2019-12-03T22:02:21Z'
               release_link: 'https://github.com/nodejs/node/releases'
-              contributors_count: 2617
+              contributors_count: 2618
               contributors_link: 'https://github.com/nodejs/node/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /nodejs/node/commit/9d7895c567e8f38abfff35da1b6d6d6a0a06f9aa
@@ -300,18 +300,18 @@ landscape:
                   value: 91
                   color: '#244776'
               contributions: >-
-                33;44;43;52;37;22;35;21;107;19;44;26;7;13;32;26;17;28;9;10;3;25;49;48;21;43;42;49;18;26;45;59;60;64;62;59;49;24;28;34;20;29;28;54;78;65;60;51;58;64;37;35
+                25;48;51;43;35;22;39;14;108;26;39;24;4;30;18;23;21;30;3;11;3;43;32;53;20;39;52;42;14;33;46;56;78;46;72;46;53;20;28;46;6;32;25;66;78;58;64;58;59;48;40;36
               firstWeek: 2018-12-09Z
-              stars: 52081
+              stars: 52093
               license: MIT License
               description: >-
                 A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application
                 on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-              latest_commit_date: '2019-12-05T19:18:10Z'
-              latest_commit_link: /webpack/webpack/commit/720ad9513ed0a7ddeb1e43ff68fc59e4160517e6
+              latest_commit_date: '2019-12-06T14:30:45Z'
+              latest_commit_link: /webpack/webpack/commit/d9f7f6e533095ee7a63814456361c563528edcef
               release_date: '2019-11-20T21:53:01Z'
               release_link: 'https://github.com/webpack/webpack/releases'
-              contributors_count: 568
+              contributors_count: 569
               contributors_link: 'https://github.com/webpack/webpack/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /webpack/webpack/commit/2e1460036c5349951da86c582006c7787c56c543
@@ -354,7 +354,7 @@ landscape:
                 - name: Arc
                   value: 176
                   color: '#aa2afe'
-              contributions: 13;9;1;0;1;8;2;1;37;9;8;3;4;8;0;7;22;2;0;7;0;3;4;3;0;8;0;3;8;4;7;3;2;17;15;17;18;32;9;11;6;28;25;22;35;13;27;20;11;19;14;14
+              contributions: 13;9;1;0;1;10;1;16;22;8;8;5;5;5;2;5;22;2;4;3;0;3;4;3;0;8;2;1;12;1;6;3;2;23;14;14;16;32;9;15;2;37;19;33;25;11;29;18;11;19;12;14
               firstWeek: 2018-12-09Z
               stars: 100
               license: Unknown License
@@ -372,7 +372,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: Intern
             homepage_url: 'https://theintern.io/'
@@ -407,7 +407,7 @@ landscape:
                 - name: JavaScript
                   value: 3319
                   color: '#f1e05a'
-              contributions: 2;0;0;2;1;2;1;0;1;1;0;3;5;2;0;0;0;0;0;0;0;0;5;0;3;1;0;1;0;0;0;0;0;2;2;0;0;0;0;2;0;0;0;3;0;0;0;0;3;0;0;4
+              contributions: 2;0;0;2;1;2;1;0;2;0;0;3;6;1;0;0;0;0;0;0;0;0;5;3;0;1;1;0;0;0;0;0;0;2;2;0;0;0;0;2;0;0;0;3;0;0;0;3;0;0;0;4
               firstWeek: 2018-12-09Z
               stars: 4154
               license: Other
@@ -427,7 +427,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: Mocha
             homepage_url: 'https://mochajs.org/'
@@ -462,9 +462,9 @@ landscape:
                 - name: CoffeeScript
                   value: 328
                   color: '#244776'
-              contributions: 11;10;2;18;6;4;11;5;3;11;19;9;10;9;0;2;3;13;4;7;5;1;2;3;1;3;4;2;2;0;0;6;5;1;3;4;2;1;2;2;0;2;2;2;6;3;0;3;0;1;6;3
+              contributions: 13;6;7;16;3;6;10;5;3;11;20;7;10;9;0;2;5;11;4;7;5;1;5;0;1;3;4;2;2;0;0;7;4;1;3;4;2;1;2;2;0;2;2;2;8;1;0;3;0;3;5;2
               firstWeek: 2018-12-09Z
-              stars: 18733
+              stars: 18737
               license: MIT License
               description: '☕️ simple, flexible, fun javascript test framework for node.js & the browser'
               latest_commit_date: '2019-12-03T20:41:49Z'
@@ -482,7 +482,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: Node-RED
             homepage_url: 'https://nodered.org/'
@@ -515,9 +515,9 @@ landscape:
                 - name: Shell
                   value: 191
                   color: '#89e051'
-              contributions: 37;16;4;2;16;13;15;21;38;21;9;11;44;11;13;12;12;5;2;11;25;26;9;35;34;13;23;18;16;11;18;5;3;14;25;43;17;3;0;23;18;19;26;20;19;14;21;23;9;14;3;2
+              contributions: 23;19;1;2;19;14;13;22;46;14;5;12;43;17;7;13;15;1;2;16;32;14;21;31;28;21;18;24;7;11;18;3;5;15;30;36;16;3;3;25;23;10;33;15;17;22;20;15;9;17;0;2
               firstWeek: 2018-12-09Z
-              stars: 8915
+              stars: 8918
               license: Apache License 2.0
               description: Low-code programming for event-driven applications
               latest_commit_date: '2019-12-03T10:33:05Z'
@@ -560,7 +560,7 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 1829469
+                  value: 1832938
                   color: '#f1e05a'
                 - name: HTML
                   value: 18658
@@ -578,13 +578,13 @@ landscape:
                   value: 122
                   color: '#701516'
               contributions: >-
-                24;14;26;26;44;36;37;25;32;7;31;33;28;12;12;24;20;12;13;15;16;16;9;26;19;17;12;14;12;10;30;28;23;15;13;21;15;13;13;18;10;10;21;20;24;12;26;20;18;1;21;22
+                24;22;27;30;35;37;37;23;32;5;37;29;28;10;12;26;18;17;13;10;17;14;12;27;22;10;12;15;12;10;40;17;26;12;13;23;14;14;13;16;12;10;22;23;20;17;20;25;12;3;23;23
               firstWeek: 2018-12-09Z
               stars: 5343
               license: MIT License
               description: Next-gen WebDriver test automation framework for Node.js
-              latest_commit_date: '2019-12-05T09:43:40Z'
-              latest_commit_link: /webdriverio/webdriverio/commit/6bb593e8170fd9f7032fd0d1767147ce167d4c89
+              latest_commit_date: '2019-12-06T15:42:14Z'
+              latest_commit_link: /webdriverio/webdriverio/commit/679e841c2e06c36f19f918ad6806f7555f4c514c
               release_date: '2013-12-10T15:09:27Z'
               release_link: 'https://github.com/webdriverio/webdriverio/releases'
               contributors_count: 172
@@ -599,7 +599,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-04T08:52:49.000Z
+              latest_tweet_date: 2019-12-06T15:13:39.000Z
           - item:
             name: Webhint.io
             homepage_url: 'https://webhint.io/'
@@ -624,7 +624,7 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 2109721
+                  value: 2111300
                   color: '#2b7489'
                 - name: JavaScript
                   value: 122654
@@ -633,7 +633,7 @@ landscape:
                   value: 60211
                   color: '#563d7c'
                 - name: HTML
-                  value: 52403
+                  value: 52034
                   color: '#e34c26'
                 - name: Batchfile
                   value: 283
@@ -642,16 +642,16 @@ landscape:
                   value: 178
                   color: '#89e051'
               contributions: >-
-                7;19;1;125;24;107;46;32;98;40;41;101;59;29;27;39;32;25;39;26;28;54;47;52;24;32;21;24;23;6;20;27;15;35;24;18;15;36;27;39;29;23;11;37;30;48;42;37;85;40;15;26
+                13;13;2;125;26;112;43;35;96;38;120;23;65;23;34;30;33;29;39;24;31;48;52;48;28;25;21;24;22;7;19;27;18;36;22;16;17;37;32;33;31;19;12;36;40;47;35;44;84;37;10;30
               firstWeek: 2018-12-09Z
-              stars: 2740
+              stars: 2741
               license: Apache License 2.0
               description: "\U0001F4A1 A hinting engine for the web"
-              latest_commit_date: '2019-12-05T00:48:19Z'
-              latest_commit_link: /webhintio/hint/commit/3d4244d3a3bf022830632343dcf9cdfebe60c659
+              latest_commit_date: '2019-12-06T08:27:37Z'
+              latest_commit_link: /webhintio/hint/commit/a620f1cafb55af6ca7672e66989ae1c21f03dbac
               release_date: '2019-10-01T10:18:40Z'
               release_link: 'https://github.com/webhintio/hint/releases'
-              contributors_count: 62
+              contributors_count: 61
               contributors_link: 'https://github.com/webhintio/hint/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /webhintio/hint/commit/d4c07e7c5a07fc1437c3888c1dd048097e1c504e
@@ -690,18 +690,18 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 9242790
+                  value: 9244183
                   color: '#f1e05a'
                 - name: HTML
                   value: 8940
                   color: '#e34c26'
-              contributions: 13;0;14;1;7;7;4;4;16;19;20;8;19;4;14;3;21;6;14;11;12;5;17;9;17;5;9;10;16;3;3;12;8;4;5;7;24;13;16;5;25;9;30;5;10;22;15;10;12;12;17;8
+              contributions: 12;0;15;6;1;11;1;12;8;30;10;10;16;13;6;1;22;5;16;13;8;10;14;8;17;5;8;11;15;3;4;12;7;5;4;8;25;21;7;9;23;6;31;4;12;31;10;6;16;17;7;10
               firstWeek: 2018-12-09Z
-              stars: 15435
+              stars: 15440
               license: MIT License
               description: A fully pluggable tool for identifying and reporting on patterns in JavaScript
-              latest_commit_date: '2019-12-06T00:44:44Z'
-              latest_commit_link: /eslint/eslint/commit/8b65f175dfb4fac11ed7184537be400ed14996fb
+              latest_commit_date: '2019-12-06T23:44:01Z'
+              latest_commit_link: /eslint/eslint/commit/a230f8404e4f2423dd79378b065d24c12776775b
               release_date: '2019-11-30T17:06:04Z'
               release_link: 'https://github.com/eslint/eslint/releases'
               contributors_count: 734
@@ -747,9 +747,9 @@ landscape:
                 - name: HTML
                   value: 2059
                   color: '#e34c26'
-              contributions: 3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2018-12-09Z
-              stars: 5495
+              stars: 5497
               license: BSD 2-Clause "Simplified" License
               description: ECMAScript parsing infrastructure for multipurpose analysis
               latest_commit_date: '2019-09-11T01:13:15Z'
@@ -766,7 +766,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: Express
             homepage_url: 'https://expressjs.com/'
@@ -798,16 +798,16 @@ landscape:
                 - name: Shell
                   value: 196
                   color: '#89e051'
-              contributions: 1;0;1;0;0;1;0;1;3;0;0;0;0;0;0;0;0;0;6;2;8;7;9;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 1;0;1;0;0;1;0;3;1;0;0;0;0;0;0;0;0;0;6;2;8;8;10;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2018-12-09Z
-              stars: 46401
+              stars: 46413
               license: MIT License
               description: 'Fast, unopinionated, minimalist web framework for node.'
               latest_commit_date: '2019-05-26T04:24:55Z'
               latest_commit_link: /expressjs/express/commit/e1b45ebd050b6f06aa38cda5aaf0c21708b0c71e
               release_date: '2019-05-26T04:30:04Z'
               release_link: 'https://github.com/expressjs/express/releases'
-              contributors_count: 230
+              contributors_count: 231
               contributors_link: 'https://github.com/expressjs/express/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /expressjs/express/commit/9998490f93d3ad3d56c00d23c0aa13fac41c3f6b
@@ -818,7 +818,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: Globalize
             homepage_url: 'https://github.com/globalizejs/globalize'
@@ -850,9 +850,9 @@ landscape:
                 - name: HTML
                   value: 1389
                   color: '#e34c26'
-              contributions: 0;1;0;0;0;0;0;0;0;0;0;0;7;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;1;0;0;0;0;0;0;0;0;0;1;6;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2018-12-09Z
-              stars: 4309
+              stars: 4310
               license: Other
               description: A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
               latest_commit_date: '2019-04-17T16:42:17Z'
@@ -870,7 +870,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: Grunt
             homepage_url: 'https://gruntjs.com/'
@@ -897,7 +897,7 @@ landscape:
                 - name: JavaScript
                   value: 161509
                   color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2018-12-09Z
               stars: 11972
               license: Other
@@ -953,9 +953,9 @@ landscape:
                 - name: Dockerfile
                   value: 875
                   color: '#384d54'
-              contributions: 3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;31;0;1;3;0;22;0;0;5;0;30;12;4;6;2;51;19;47
+              contributions: 3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;31;0;1;3;1;21;0;4;1;0;30;12;5;5;3;50;21;45
               firstWeek: 2018-12-09Z
-              stars: 4851
+              stars: 4854
               license: MIT License
               description: Frontend for HospitalRun
               latest_commit_date: '2019-12-05T09:39:36Z'
@@ -973,7 +973,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: Interledger
             homepage_url: 'https://interledger.org/'
@@ -1006,7 +1006,7 @@ landscape:
                 - name: Shell
                   value: 4198
                   color: '#89e051'
-              contributions: 0;0;1;0;6;10;2;0;0;2;2;5;4;1;8;2;2;1;5;1;0;7;8;0;0;3;0;1;0;0;5;1;0;0;17;9;2;1;0;3;0;3;4;6;3;12;0;0;3;0;0;0
+              contributions: 0;0;1;3;3;10;2;0;0;3;1;5;4;1;9;1;2;1;5;1;0;7;8;0;0;3;0;1;0;0;5;1;0;2;17;7;2;1;0;3;0;3;4;6;3;12;0;2;1;0;0;0
               firstWeek: 2018-12-09Z
               stars: 310
               license: Other
@@ -1049,10 +1049,10 @@ landscape:
             github_data:
               languages:
                 - name: C
-                  value: 4291367
+                  value: 4291843
                   color: '#555555'
                 - name: JavaScript
-                  value: 2204801
+                  value: 2206180
                   color: '#f1e05a'
                 - name: C++
                   value: 347822
@@ -1077,13 +1077,13 @@ landscape:
                 - name: Batchfile
                   value: 2634
                   color: '#C1F12E'
-              contributions: 5;5;0;6;10;22;10;4;6;6;4;1;9;4;4;6;7;1;10;10;4;8;6;2;3;1;3;7;11;7;12;13;13;7;8;3;2;12;21;17;15;16;30;9;13;11;21;14;21;21;21;25
+              contributions: 7;3;0;8;9;21;12;4;5;5;4;1;10;3;5;8;4;4;7;11;3;11;4;1;4;2;2;10;8;8;10;13;13;7;8;4;1;15;19;20;17;13;28;9;12;15;18;20;18;22;25;18
               firstWeek: 2018-12-09Z
-              stars: 3810
+              stars: 3811
               license: Apache License 2.0
               description: Ultra-lightweight JavaScript engine for the Internet of Things.
-              latest_commit_date: '2019-12-05T19:24:37Z'
-              latest_commit_link: /jerryscript-project/jerryscript/commit/99fa823bab10bf2b3290614ca745434bd3094021
+              latest_commit_date: '2019-12-06T12:53:34Z'
+              latest_commit_link: /jerryscript-project/jerryscript/commit/5ceffd209e48c5d09afd0700f78120c2ae3742be
               release_date: '2019-10-16T13:32:09Z'
               release_link: 'https://github.com/jerryscript-project/jerryscript/releases'
               contributors_count: 91
@@ -1098,7 +1098,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: libuv
             homepage_url: 'https://libuv.org/'
@@ -1143,9 +1143,9 @@ landscape:
                 - name: Shell
                   value: 4184
                   color: '#89e051'
-              contributions: 4;3;2;4;3;14;4;2;6;8;15;3;3;1;6;7;1;6;6;7;3;5;3;10;1;2;6;6;8;8;4;1;3;4;4;11;5;2;3;16;5;2;6;5;10;7;1;0;0;6;4;5
+              contributions: 3;3;2;5;5;14;1;2;6;8;15;4;2;1;7;7;0;6;6;8;4;3;4;9;2;6;1;7;7;9;3;1;3;4;8;7;6;1;12;8;5;2;5;7;8;7;1;0;0;7;4;4
               firstWeek: 2018-12-09Z
-              stars: 13993
+              stars: 14003
               license: Other
               description: Cross-platform asynchronous I/O
               latest_commit_date: '2019-12-04T03:13:41Z'
@@ -1161,7 +1161,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: Lodash
             homepage_url: 'https://lodash.com/'
@@ -1187,9 +1187,9 @@ landscape:
                 - name: JavaScript
                   value: 1058779
                   color: '#f1e05a'
-              contributions: 5;0;1;0;0;2;1;1;0;3;1;0;0;1;1;0;0;0;2;0;1;0;0;0;0;0;1;0;2;2;0;0;2;0;0;2;14;6;2;0;0;1;2;0;1;0;0;1;1;1;0;0
+              contributions: 5;0;1;0;1;1;1;1;0;3;1;0;0;1;1;0;0;0;2;0;1;0;0;0;0;1;0;0;2;2;0;0;2;0;0;6;10;8;0;0;0;1;2;0;1;0;0;1;1;1;0;0
               firstWeek: 2018-12-09Z
-              stars: 42631
+              stars: 42646
               license: Other
               description: 'A modern JavaScript utility library delivering modularity, performance, & extras.'
               latest_commit_date: '2019-11-19T21:35:48Z'
@@ -1208,7 +1208,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: Marko
             homepage_url: 'https://markojs.com/'
@@ -1243,9 +1243,9 @@ landscape:
                 - name: CSS
                   value: 31
                   color: '#563d7c'
-              contributions: 13;13;12;17;17;12;6;12;11;4;12;0;10;11;15;9;12;2;6;7;3;1;10;16;4;10;6;9;15;17;14;5;1;2;6;3;0;4;4;0;6;0;0;0;10;3;18;11;0;3;8;0
+              contributions: 20;4;24;12;9;12;6;12;11;13;3;1;9;17;9;9;12;3;8;4;3;2;13;12;4;10;6;9;15;17;15;5;1;1;8;1;0;8;0;0;6;0;0;0;11;9;11;11;0;5;6;0
               firstWeek: 2018-12-09Z
-              stars: 9306
+              stars: 9308
               license: MIT License
               description: 'A declarative, HTML-based language that makes building web apps fun'
               latest_commit_date: '2019-11-27T22:04:56Z'
@@ -1261,7 +1261,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: Messageformat
             homepage_url: 'https://messageformat.github.io/messageformat/'
@@ -1293,7 +1293,7 @@ landscape:
                 - name: Shell
                   value: 344
                   color: '#89e051'
-              contributions: 0;11;1;13;3;0;0;0;0;0;0;7;2;0;0;1;0;23;10;2;7;0;1;1;1;0;0;2;0;15;1;9;0;0;21;0;0;7;22;0;0;1;0;7;20;4;0;1;1;0;0;1
+              contributions: 0;11;1;14;2;0;0;0;0;0;0;7;2;0;0;1;0;23;10;2;7;0;1;1;1;0;0;2;0;15;1;9;0;0;21;0;0;7;22;0;0;1;0;12;15;4;0;1;1;0;1;0
               firstWeek: 2018-12-09Z
               stars: 1399
               license: MIT License
@@ -1313,7 +1313,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: Moment.js
             homepage_url: 'https://momentjs.com/'
@@ -1345,9 +1345,9 @@ landscape:
                 - name: Shell
                   value: 739
                   color: '#89e051'
-              contributions: 12;0;0;0;0;2;26;1;1;1;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 12;0;0;0;0;10;18;1;1;1;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2018-12-09Z
-              stars: 42907
+              stars: 42910
               license: MIT License
               description: 'Parse, validate, manipulate, and display dates in javascript.'
               latest_commit_date: '2019-06-10T08:05:56Z'
@@ -1364,7 +1364,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: PEP
             homepage_url: 'https://github.com/jquery/pep'
@@ -1413,7 +1413,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: QUnit
             homepage_url: 'https://qunitjs.com/'
@@ -1445,7 +1445,7 @@ landscape:
                 - name: CSS
                   value: 7992
                   color: '#563d7c'
-              contributions: 0;6;2;8;7;0;1;0;0;0;5;1;1;0;0;0;0;1;1;0;0;0;0;0;1;0;0;2;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0
+              contributions: 0;6;5;5;7;0;1;0;0;0;5;2;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;2;0;0;0;0;0;0;1;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0
               firstWeek: 2018-12-09Z
               stars: 3834
               license: Other
@@ -1465,7 +1465,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
       - subcategory:
         name: Incubating
         items:
@@ -1493,7 +1493,7 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 16959400
+                  value: 16965059
                   color: '#f1e05a'
                 - name: HTML
                   value: 1944082
@@ -1517,16 +1517,16 @@ landscape:
                   value: 7443
                   color: '#00ADD8'
               contributions: >-
-                98;75;47;27;58;94;56;72;56;74;66;130;56;43;51;42;52;58;31;51;78;67;71;86;60;68;38;68;78;50;63;69;92;62;116;85;103;70;45;47;71;49;83;51;44;84;60;61;51;52;33;57
+                93;82;34;31;67;93;53;70;54;77;71;126;52;43;54;45;47;54;28;59;77;70;77;90;47;62;48;58;105;22;70;78;89;51;140;74;105;60;46;50;70;42;86;45;67;66;64;61;45;59;21;72
               firstWeek: 2018-12-09Z
               stars: 13319
               license: Apache License 2.0
               description: The AMP web component framework.
-              latest_commit_date: '2019-12-06T01:09:09Z'
-              latest_commit_link: /ampproject/amphtml/commit/d5dc3590243ff8cee2b7b94fa9ac981188771206
-              release_date: '2019-12-05T17:26:24Z'
+              latest_commit_date: '2019-12-07T03:50:31Z'
+              latest_commit_link: /ampproject/amphtml/commit/d395a8717a4fa0bb5f5152c70270de0303c1fe03
+              release_date: '2019-12-06T22:55:23Z'
               release_link: 'https://github.com/ampproject/amphtml/releases'
-              contributors_count: 796
+              contributors_count: 799
               contributors_link: 'https://github.com/ampproject/amphtml/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /ampproject/amphtml/commit/5f414868caf5f431ebe64f840d6b1de6464085c4
@@ -1573,9 +1573,9 @@ landscape:
                 - name: JavaScript
                   value: 38
                   color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;1;0;3;2;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;1;0;4;1;0;0;0
               firstWeek: 2018-12-09Z
-              stars: 38542
+              stars: 38556
               license: MIT License
               description: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
               latest_commit_date: '2019-11-12T19:16:08Z'
@@ -1594,7 +1594,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
       - subcategory:
         name: Emeritus
         items:
@@ -1647,7 +1647,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: jQuery Mobile
             homepage_url: 'https://jquerymobile.com/'
@@ -1685,7 +1685,7 @@ landscape:
                 - name: Hack
                   value: 1180
                   color: '#878787'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2018-12-09Z
               stars: 9942
               license: Other
@@ -1703,7 +1703,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: jQuery User Interface
             homepage_url: 'https://jqueryui.com/'
@@ -1737,7 +1737,7 @@ landscape:
                   color: '#563d7c'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2018-12-09Z
-              stars: 10749
+              stars: 10750
               license: Other
               description: The official jQuery user interface library.
               latest_commit_date: '2017-05-31T18:09:05Z'
@@ -1753,7 +1753,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: RequireJS
             homepage_url: 'https://requirejs.org/'
@@ -1785,7 +1785,7 @@ landscape:
                 - name: Shell
                   value: 2380
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2018-12-09Z
               stars: 12401
               license: Other
@@ -1803,7 +1803,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
           - item:
             name: Sizzle
             homepage_url: 'https://github.com/jquery/sizzle/wiki'
@@ -1837,7 +1837,7 @@ landscape:
                   color: '#563d7c'
               contributions: 0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;4;0;0;0;0;0;1;1;2;3;0;0;0;0;0;0
               firstWeek: 2018-12-09Z
-              stars: 5762
+              stars: 5763
               license: Other
               description: A sizzlin' hot selector engine.
               latest_commit_date: '2019-10-21T16:59:44Z'
@@ -1856,7 +1856,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T03:52:48.000Z
+              latest_tweet_date: 2019-12-07T00:14:36.000Z
   - category:
     name: OpenJS Foundation Members
     subcategories:
@@ -1884,7 +1884,7 @@ landscape:
               ticker: GOOG
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 910569111552
+              market_cap: 924200599552
               effective_ticker: GOOG
             image_data:
               fileName: google-member.svg
@@ -1892,7 +1892,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T05:24:02.000Z
+              latest_tweet_date: 2019-12-07T00:00:00.000Z
           - item:
             name: IBM (member)
             homepage_url: 'https://www.ibm.com/us-en/'
@@ -1913,7 +1913,7 @@ landscape:
               ticker: IBM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 116824375296
+              market_cap: 117984559104
               effective_ticker: IBM
             image_data:
               fileName: ibm-member.svg
@@ -1921,7 +1921,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T21:56:00.000Z
+              latest_tweet_date: 2019-12-06T18:06:04.000Z
           - item:
             name: Joyent (member)
             homepage_url: 'https://www.joyent.com'
@@ -1968,7 +1968,7 @@ landscape:
               ticker: MSFT
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1147923988480
+              market_cap: 1157671944192
               effective_ticker: MSFT
             image_data:
               fileName: microsoft-member.svg
@@ -2000,7 +2000,7 @@ landscape:
               ticker: GDDY
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 11654201344
+              market_cap: 11597350912
               effective_ticker: GDDY
             image_data:
               fileName: go-daddy-member.svg
@@ -2008,7 +2008,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T23:07:39.000Z
+              latest_tweet_date: 2019-12-06T22:25:30.000Z
           - item:
             name: Intel (member)
             homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
@@ -2029,7 +2029,7 @@ landscape:
               ticker: INTC
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 243730432000
+              market_cap: 247123509248
               effective_ticker: INTC
             image_data:
               fileName: intel-member.svg
@@ -2037,7 +2037,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T18:50:32.000Z
+              latest_tweet_date: 2019-12-06T17:30:00.000Z
       - subcategory:
         name: Silver
         items:
@@ -2066,7 +2066,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T18:05:09.000Z
+              latest_tweet_date: 2019-12-06T18:15:10.000Z
           - item:
             name: Cloud Grey (member)
             homepage_url: 'https://cloudgrey.io/'
@@ -2168,7 +2168,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T00:32:04.000Z
+              latest_tweet_date: 2019-12-06T23:50:04.000Z
           - item:
             name: Groupon (member)
             homepage_url: 'https://www.groupon.com/'
@@ -2189,7 +2189,7 @@ landscape:
               ticker: GRPN
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1660318080
+              market_cap: 1665965312
               effective_ticker: GRPN
             image_data:
               fileName: groupon-member.svg
@@ -2197,7 +2197,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T22:37:00.000Z
+              latest_tweet_date: 2019-12-07T02:14:00.000Z
           - item:
             name: HackerOne (member)
             homepage_url: 'https://www.hackerone.com/'
@@ -2223,7 +2223,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T00:54:48.000Z
+              latest_tweet_date: 2019-12-06T18:37:35.000Z
           - item:
             name: Nearform (member)
             homepage_url: 'https://www.nearform.com/'
@@ -2248,7 +2248,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T21:59:58.000Z
+              latest_tweet_date: 2019-12-06T17:50:08.000Z
           - item:
             name: Nodesource (member)
             homepage_url: 'https://www.nodesource.com/'
@@ -2275,7 +2275,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T15:49:32.000Z
+              latest_tweet_date: 2019-12-06T20:07:26.000Z
           - item:
             name: npm (member)
             homepage_url: 'https://www.npmjs.com/'
@@ -2301,7 +2301,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T20:05:49.000Z
+              latest_tweet_date: 2019-12-07T00:05:58.000Z
           - item:
             name: Profound Logic (member)
             homepage_url: 'https://www.profoundlogic.com/'
@@ -2326,7 +2326,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T22:10:04.000Z
+              latest_tweet_date: 2019-12-06T22:01:59.000Z
           - item:
             name: Red Hat (member)
             homepage_url: 'https://www.redhat.com/en'
@@ -2349,7 +2349,7 @@ landscape:
               ticker: RHT
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 116824375296
+              market_cap: 117984559104
               effective_ticker: IBM
             image_data:
               fileName: red-hat-member.svg
@@ -2357,7 +2357,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T21:20:03.000Z
+              latest_tweet_date: 2019-12-06T22:05:07.000Z
           - item:
             name: SafetyCulture (member)
             homepage_url: 'https://safetyculture.com/'
@@ -2409,7 +2409,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T21:20:06.000Z
+              latest_tweet_date: 2019-12-06T18:45:10.000Z
           - item:
             name: SitePen (member)
             homepage_url: 'https://www.sitepen.com/'
@@ -2460,7 +2460,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T20:27:28.000Z
+              latest_tweet_date: 2019-12-06T22:52:03.000Z
           - item:
             name: Sourcegraph (member)
             homepage_url: 'https://about.sourcegraph.com/'
@@ -2559,6 +2559,6 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-05T19:56:41.000Z
+              latest_tweet_date: 2019-12-06T13:52:05.000Z
 twitter_options:
   count: 0
